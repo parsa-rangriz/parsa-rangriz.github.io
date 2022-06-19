@@ -20,4 +20,4 @@ Also, I am an undergraduate research assistant of (Prof. Amir Daneshgar)[http://
 
 Moreover, I did a project under the supervision of (Dr. Ahsan Nazir)[https://www.research.manchester.ac.uk/portal/ahsan.nazir.html] at the (University of Manchester)[https://www.manchester.ac.uk/] in Manchester, UK. I and Adam Stokes, a postdoc student, worked together to study the thermodynamic laws of non-conjugate subsystems using a coarse-grained entropy, called observational entropy.
 
-You can find my CV, here.
+You can find my CV, (here)[/files/vitae.pdf].
