@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is _Parsa Rangriz_. I am a senior undergraduate student at the [Department of Physics](http://physics.sharif.ir/~web/), [Sharif University of Technology (SUT))](https://en.sharif.edu/) in Tehran, Iran. Besides, I study mathematics as minor program at the [Department of Mathematical Sciences](http://math.sharif.ir/). I intend to apply for a Ph.D. position in Fall 2022.
+My name is _Parsa Rangriz_. I am a senior undergraduate student at the [Department of Physics](http://physics.sharif.ir/~web/), [Sharif University of Technology (SUT)](https://en.sharif.edu/) in Tehran, Iran. Besides, I study mathematics as minor program at the [Department of Mathematical Sciences](http://math.sharif.ir/). I intend to apply for a Ph.D. position in Fall 2022.
 
 Research interests: 
 - disordered systems, spin glasses, combinatorial optimization, networks, LDPC codes, ...
