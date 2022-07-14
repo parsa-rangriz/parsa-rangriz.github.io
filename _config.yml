@@ -83,13 +83,13 @@ author:
   name             : "Parsa Rangriz"
   avatar           : "profile.jpeg"
   bio              : "Physics Student @ SUT"
-  location         : "Tehran, Iran"
+  location         : "Lausanne, Switzerland"
   employer         :
   pubmed           : 
   googlescholar    : 
   email            : "rangriz99@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://people.epfl.ch/parsa.rangriz?lang=en"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "parsar99"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
