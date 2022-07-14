@@ -14,7 +14,7 @@ Research interests:
 - disordered systems, spin glasses, combinatorial optimization, networks, LDPC codes, ...
 - open quantum systems, thermodynamics of quantum information, notion of entropy, ...
 
-From July 2022, I will join the [Statistical Physics of Computation](https://www.epfl.ch/labs/spoc/) laboratory at [EPFL](https://www.epfl.ch/en/) in Lausanne, Switzerland as a summer intern under the supervision of [Prof. Lenka Zdeborova](https://people.epfl.ch/lenka.zdeborova/?lang=en). More information will be shared.
+I am a part of the [Statistical Physics of Computation](https://www.epfl.ch/labs/spoc/) laboratory at [EPFL](https://www.epfl.ch/en/) in Lausanne, Switzerland as a summer intern under the supervision of [Prof. Lenka Zdeborova](https://people.epfl.ch/lenka.zdeborova/?lang=en). More information will be shared.
 
 Also, I am an undergraduate research assistant of [Prof. Amir Daneshgar](http://mathsci.sharif.ir/faculties/daneshgar/) at the Department of Mathematical Sciences, SUT. We work on the implication of covering graph (lift) of random regular graphs based on the replica symmetric solutions and related algorithms (cavity method) in the context of spin glass theory and statistical physics.
 
