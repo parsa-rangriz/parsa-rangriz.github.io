@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Parsa Rangriz"
-  avatar           : "profile.jpeg"
+  avatar           : "profile.jpg"
   bio              : "Physics Student @ SUT"
   location         : "Lausanne, Switzerland"
   employer         :
   pubmed           : 
   googlescholar    : 
   email            : "rangriz99@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :
   uri              : "https://people.epfl.ch/parsa.rangriz?lang=en"
   bitbucket        :
   codepen          :
