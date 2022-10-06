@@ -32,7 +32,7 @@ Hi! Welcome to my homepage. My name is **Parsa Rangriz**. Check out my [CV](/fil
 - [**Sharif University of Technology**](https://en.sharif.edu/), Iran, Minor B.Sc. in Mathematics (Sep 2019 - Dec 2022)
 
 ## Research Experiences
-- **[EPFL](https://www.epfl.ch/en/)**, Switzerland,  Research intern (Jul 2022 - Present)
+- **[EPFL](https://www.epfl.ch/en/)**, Switzerland,  Research intern (Jul 2022 - Sep 2022)
     * Program: [Summer@EPFL 2022](https://summer.epfl.ch/)
     * Supervisor: [Prof. Lenka Zdeborova](https://people.epfl.ch/lenka.zdeborova/?lang=en), [SPOC](https://www.epfl.ch/labs/spoc/) lab
     * Project: _Assortative partition of fully connected graphs and gapped states in spin glasses._
