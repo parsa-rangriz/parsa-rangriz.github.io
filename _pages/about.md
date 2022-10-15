@@ -10,7 +10,7 @@ redirect_from:
 Hi! Welcome to my homepage.
 
 ## Research Interests
-- Disordered systems, Spin glasses, Networks, LDPC Codes, Combinatorial optimization, ...
+- Disordered systems, Spin glasses, Networks, Probability, Statistical Physics, ...
 
 ## Education
 - [**Sharif University of Technology**](https://en.sharif.edu/), Iran, B.Sc. in Physics (Sep 2018 - Dec 2022)
