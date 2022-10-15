@@ -21,7 +21,7 @@ Hi! Welcome to my homepage. Check out my [CV](/files/vitae.pdf) for more informa
     * Program: [Summer@EPFL 2022](https://summer.epfl.ch/)
     * Supervisor: [Prof. Lenka Zdeborova](https://people.epfl.ch/lenka.zdeborova/?lang=en), [SPOC](https://www.epfl.ch/labs/spoc/) lab
     * Project: _Assortative partition of fully connected graphs and gapped states in spin glasses._
-- **[Sharif University of Technology](https://en.sharif.edu/)**, Iran, Research assistant (Oct 2020 - Jun 2021)
+- **[Sharif University of Technology](https://en.sharif.edu/)**, Iran, Research assistant (Oct 2021 - Jun 2022)
     * Supervisor: [Prof. Amir Daneshgar](http://mathsci.sharif.ir/faculties/daneshgar)
     * Project: Properties of a New Regular Random Graph Generator
 - **[The University of Manchester](https://www.manchester.ac.uk/)**, England, Remote research intern (Jul 2021 - Mar 2022)
