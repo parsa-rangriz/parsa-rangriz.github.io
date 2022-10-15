@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! Welcome to my homepage. My name is **Parsa Rangriz**. Check out my [CV](/files/vitae.pdf) for more information. Feel free to send me an [email](mailto:rangriz99@gmail.com).
+Hi! Welcome to my homepage. Check out my [CV](/files/vitae.pdf) for more information. Feel free to send me an [email](mailto:rangriz99@gmail.com).
 
 ## Research Interests
 - Disordered systems, Spin glasses, Networks, LDPC Codes, Combinatorial optimization, ...
