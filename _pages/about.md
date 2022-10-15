@@ -23,7 +23,7 @@ Hi! Welcome to my homepage.
     * Project: _Assortative partition of fully connected graphs and gapped states in spin glasses._
 - **[Sharif University of Technology](https://en.sharif.edu/)**, Iran, Research assistant (Oct 2021 - Jun 2022)
     * Supervisor: [Prof. Amir Daneshgar](http://mathsci.sharif.ir/faculties/daneshgar)
-    * Project: Properties of a New Regular Random Graph Generator
+    * Project: _Properties of a New Regular Random Graph Generator_
 - **[The University of Manchester](https://www.manchester.ac.uk/)**, England, Remote research intern (Jul 2021 - Mar 2022)
     * Supervisor: [Dr. Ahsan Nazir](https://www.research.manchester.ac.uk/portal/ahsan.nazir.html), Manchester noisy quantum systems group
     * Project: _Coarse-grained entropy and thermodynamics of non-conjugate quantum subsystems._
