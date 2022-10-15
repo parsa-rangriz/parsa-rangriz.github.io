@@ -7,25 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- 
-My name is _Parsa Rangriz_. I am a 5th-year undergraduate student in physics and mathematics at the [Sharif University of Technology (SUT)](https://en.sharif.edu/) in Tehran, Iran. I intend to apply for a Ph.D. position in Fall 2022.
-
-Research interests: 
-- Disordered systems, spin glasses, networks, combinatorial optimization, ...
-- (Quantum) information theory, quantum thermodynamics, the notion of entropy, ...
-
-I am a part of the [Statistical Physics of Computation](https://www.epfl.ch/labs/spoc/) laboratory at [EPFL](https://www.epfl.ch/en/) in Lausanne, Switzerland as a summer intern under the supervision of [Prof. Lenka Zdeborova](https://people.epfl.ch/lenka.zdeborova/?lang=en). I am working on the assortative partitions of fully connected graphs based on the replica theory to study the single-spin-ﬂip-stable states in spin glasses.
-
-Also, I am an undergraduate research assistant of [Prof. Amir Daneshgar](http://mathsci.sharif.ir/faculties/daneshgar/) at the Department of Mathematical Sciences, SUT. We work on the implication of covering (lift) graphs of random regular graphs based on the context of spin glass theory and statistical physics.
-
-Moreover, I did a project under the supervision of [Dr. Ahsan Nazir](https://www.research.manchester.ac.uk/portal/ahsan.nazir.html) at the [University of Manchester](https://www.manchester.ac.uk/) in Manchester, UK. I and Adam Stokes, a postdoc student, worked together to study the thermodynamic laws of non-conjugate subsystems using a coarse-grained entropy, called observational entropy.
-
-You can find my CV, [here](/files/vitae.pdf). -->
-Hi! Welcome to my homepage. My name is **Parsa Rangriz**. Check out my [CV](/files/vitae.pdf) for more information. Feel free to send me an [email](mailto:rangriz99+site@gmail.com).
+Hi! Welcome to my homepage. My name is **Parsa Rangriz**. Check out my [CV](/files/vitae.pdf) for more information. Feel free to send me an [email](mailto:rangriz99@gmail.com).
 
 ## Research Interests
 - Disordered systems, Spin glasses, Networks, LDPC Codes, Combinatorial optimization, ...
-- Quantum information & thermodynamics, Coarse-grained entropy and Renormalization group, ...
 
 ## Education
 - [**Sharif University of Technology**](https://en.sharif.edu/), Iran, B.Sc. in Physics (Sep 2018 - Dec 2022)
@@ -36,6 +21,9 @@ Hi! Welcome to my homepage. My name is **Parsa Rangriz**. Check out my [CV](/fil
     * Program: [Summer@EPFL 2022](https://summer.epfl.ch/)
     * Supervisor: [Prof. Lenka Zdeborova](https://people.epfl.ch/lenka.zdeborova/?lang=en), [SPOC](https://www.epfl.ch/labs/spoc/) lab
     * Project: _Assortative partition of fully connected graphs and gapped states in spin glasses._
+- **[Sharif University of Technology](https://en.sharif.edu/)**, Iran, Research assistant (Oct 2020 - Jun 2021)
+    * Supervisor: [Prof. Amir Daneshagr](http://mathsci.sharif.ir/faculties/daneshgar)
+    * Project: Properties of a New Regular Random Graph Generator
 - **[The University of Manchester](https://www.manchester.ac.uk/)**, England, Remote research intern (Jul 2021 - Mar 2022)
     * Supervisor: [Dr. Ahsan Nazir](https://www.research.manchester.ac.uk/portal/ahsan.nazir.html), Manchester noisy quantum systems group
     * Project: _Coarse-grained entropy and thermodynamics of non-conjugate quantum subsystems._
