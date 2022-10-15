@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! Welcome to my homepage. Check out my [CV](/files/vitae.pdf) for more information. Feel free to send me an [email](mailto:rangriz99@gmail.com).
+Hi! Welcome to my homepage.
 
 ## Research Interests
 - Disordered systems, Spin glasses, Networks, LDPC Codes, Combinatorial optimization, ...
@@ -27,3 +27,5 @@ Hi! Welcome to my homepage. Check out my [CV](/files/vitae.pdf) for more informa
 - **[The University of Manchester](https://www.manchester.ac.uk/)**, England, Remote research intern (Jul 2021 - Mar 2022)
     * Supervisor: [Dr. Ahsan Nazir](https://www.research.manchester.ac.uk/portal/ahsan.nazir.html), Manchester noisy quantum systems group
     * Project: _Coarse-grained entropy and thermodynamics of non-conjugate quantum subsystems._
+
+Check out my [CV](/files/vitae.pdf) for more information.
