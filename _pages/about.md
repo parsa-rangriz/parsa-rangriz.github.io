@@ -10,7 +10,7 @@ redirect_from:
 Hi! Welcome to my homepage.
 
 ## Research Interests
-- Probability, Statistical Physics, Spin Glasses, Random Matrices, Graphical Models, Combinatorial Optimization
+Probability, Statistical Physics, Spin Glasses, Random Matrices, Graphical Models, Combinatorial Optimization
 
 ## Education
 - [**Sharif University of Technology**](https://en.sharif.edu/), Iran, B.Sc. in Physics (Sep 2018 - Dec 2022)
