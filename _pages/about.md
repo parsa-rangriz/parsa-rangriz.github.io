@@ -7,25 +7,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! Welcome to my homepage.
-
-## Research Interests
-Probability, Statistical Physics, Spin Glasses, Random Matrices, Graphical Models, Combinatorial Optimization
+Hi! My name is Parsa Rangriz. I am a senior undergraduate student in physics and mathematics at Sharif University of Technology in Iran. My research interests center around probability theory, statistical physics, spin glasses, random graphs, and combinatorial optimization problems that combine these areas. Check out my [resume](/files/vitae.pdf) for more information. Besides academic work, I am interested in historical stuff: kingdoms and empires, cultures, languages, literature, poem, etc. 
 
 ## Education
-- [**Sharif University of Technology**](https://en.sharif.edu/), Iran, B.Sc. in Physics (Sep 2018 - Dec 2022)
-- [**Sharif University of Technology**](https://en.sharif.edu/), Iran, Minor B.Sc. in Mathematics (Sep 2019 - Dec 2022)
+- [**Sharif University of Technology**](https://en.sharif.edu/), Iran, B.Sc. in Physics (Sep 2018 - Jan 2023)
+- [**Sharif University of Technology**](https://en.sharif.edu/), Iran, Minor B.Sc. in Mathematics (Sep 2019 - Jan 2023)
 
 ## Research Experiences
 - **[EPFL](https://www.epfl.ch/en/)**, Switzerland,  Research Intern (Jul 2022 - Sep 2022)
     * Program: [Summer@EPFL 2022](https://summer.epfl.ch/)
-    * Supervisor: [Prof. Lenka Zdeborova](https://people.epfl.ch/lenka.zdeborova/?lang=en), [SPOC](https://www.epfl.ch/labs/spoc/) lab
+    * Supervisor: [Prof. Lenka Zdeborova](https://people.epfl.ch/lenka.zdeborova/?lang=en)
     * Project: _Assortative partition of fully connected graphs and gapped states in spin glasses._
 - **[Sharif University of Technology](https://en.sharif.edu/)**, Iran, Research Assistant (Oct 2021 - Jun 2022)
     * Supervisor: [Prof. Amir Daneshgar](http://mathsci.sharif.ir/faculties/daneshgar)
-    * Project: _Properties of a New Regular Random Graph Generator_
+    * Project: _Combinatorial properties of a new regular random graph generator_
 - **[The University of Manchester](https://www.manchester.ac.uk/)**, England, Research Intern (Jul 2021 - Mar 2022)
-    * Supervisor: [Dr. Ahsan Nazir](https://www.research.manchester.ac.uk/portal/ahsan.nazir.html), Manchester noisy quantum systems group
+    * Supervisor: [Dr. Ahsan Nazir](https://www.research.manchester.ac.uk/portal/ahsan.nazir.html)
     * Project: _Coarse-grained entropy and thermodynamics of non-conjugate quantum subsystems._
-
-Check out my [CV](/files/vitae.pdf) for more information.
