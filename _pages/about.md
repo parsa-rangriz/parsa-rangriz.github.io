@@ -16,7 +16,7 @@ Hi! My name is Parsa Rangriz. I am a senior undergraduate student in physics and
 ## Research Experiences
 - **[EPFL](https://www.epfl.ch/en/)**, Switzerland,  Research Intern (Jul 2022 - Sep 2022)
     * Program: [Summer@EPFL 2022](https://summer.epfl.ch/)
-    * Supervisor: [Prof. Lenka Zdeborova](https://people.epfl.ch/lenka.zdeborova/?lang=en)
+    * Supervisor: [Prof. Lenka Zdeborová](https://people.epfl.ch/lenka.zdeborova/?lang=en)
     * Project: _Assortative partition of fully connected graphs and gapped states in spin glasses._
 - **[Sharif University of Technology](https://en.sharif.edu/)**, Iran, Research Assistant (Oct 2021 - Jun 2022)
     * Supervisor: [Prof. Amir Daneshgar](http://mathsci.sharif.ir/faculties/daneshgar)
