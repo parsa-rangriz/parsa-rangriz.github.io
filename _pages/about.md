@@ -23,4 +23,4 @@ Hi! My name is Parsa Rangriz. I am a senior undergraduate student in physics and
     * Project: _Combinatorial properties of a new regular random graph generator_
 - **[The University of Manchester](https://www.manchester.ac.uk/)**, England, Research Intern (Jul 2021 - Mar 2022)
     * Supervisor: [Dr. Ahsan Nazir](https://www.research.manchester.ac.uk/portal/ahsan.nazir.html)
-    * Project: _Coarse-grained entropy and thermodynamics of non-conjugate quantum subsystems._
+    * Project: _Thermodynamics of non-conjugate quantum subsystems._
