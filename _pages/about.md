@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! My name is Parsa Rangriz. I am a senior undergraduate student in physics and mathematics at Sharif University of Technology in Iran. My research interests center around probability theory, statistical physics, spin glasses, random graphs, and combinatorial optimization problems that combine these areas. Check out my [resume](/files/vitae.pdf) for more information. Besides academic work, I am interested in historical stuff: kingdoms and empires, cultures, languages, literature, poem, etc. 
+Hi! My name is Parsa Rangriz. I am a senior undergraduate student in physics and mathematics at Sharif University of Technology in Iran. My research interests center around probability theory, statistical physics, spin glasses, random graphs, and combinatorial optimization problems that combine these areas. Check out my [resume](/files/vitae.pdf) for more information. 
 
 ## Education
 - [**Sharif University of Technology**](https://en.sharif.edu/), Iran, B.Sc. in Physics (Sep 2018 - Jan 2023)
