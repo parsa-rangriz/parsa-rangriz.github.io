@@ -21,6 +21,6 @@ Hi! My name is Parsa Rangriz. I am a senior undergraduate student in physics and
 - **[Sharif University of Technology](https://en.sharif.edu/)**, Iran, Research Assistant (Oct 2021 - Jun 2022)
     * Supervisor: [Prof. Amir Daneshgar](http://mathsci.sharif.ir/faculties/daneshgar)
     * Project: _Combinatorial properties of a new regular random graph generator_
-- **[The University of Manchester](https://www.manchester.ac.uk/)**, England, Research Intern (Jul 2021 - Mar 2022)
+- **[The University of Manchester](https://www.manchester.ac.uk/)**, UK, Research Intern (Jul 2021 - Mar 2022)
     * Supervisor: [Dr. Ahsan Nazir](https://www.research.manchester.ac.uk/portal/ahsan.nazir.html)
     * Project: _Thermodynamics of non-conjugate quantum subsystems._
