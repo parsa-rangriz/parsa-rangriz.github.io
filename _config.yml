@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Parsa Rangriz"
   avatar           : "profile.jpg"
-  bio              : "Physics Student @ SUT"
+  bio              : 
   location         : "Tehran, Iran"
   employer         :
   pubmed           : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "parsarangriz"
   vine             :
   weibo            :
   xing             :
