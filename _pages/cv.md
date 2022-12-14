@@ -36,7 +36,21 @@ redirect_from:
   * Statistical Mechanics I: Prof. Vahid Karimipour (‘20)
   * General Physics III: Prof. Omid Akhavan (‘19)
   * Fundamentals of C Programming: Dr. Marjan Nikbin (‘18)
-  
+
+## Course Projects (Unpublished Works)
+* **Information Theoretic Methods in High-Dimensional Probability**
+  * Parsa Rangriz, Amir Hossein Boreiri, ["Variational Inference in LDPC Codes"](https://www.rangriz.com/files/Variational_Inference_in_LDPC_Codes.pdf) ('21)
+* **Entropy Maximization and Variational Optimization**
+  * Parsa Rangriz, ["Belief Propagation for Graph Partitioning"](https://www.rangriz.com/files/BP_for_Graph_Partitioning.pdf) ('21)
+* **Machine Learning in Physics**
+  * Yasamin Panahi, Parsa Rangriz, Asra Rezafadaei, ["Phase Transition of the Transverse-Field Ising Model"](https://www.rangriz.com/files/Phase_Transitions_in_Quantum_Ising_Model.pdf) ('20)
+* **Quantum Mechanics III**
+  * Parsa Rangriz, "An Introduction to Quantum Thermodynamics"
+
 ## Extracurricular Activities
 * **[Sharif Physics Scientific Student Association](https://spssa.ir)**, Scientific-Cultural Manager ('19-'20)
 * **[Quanta - Sharif Physics Study Circles](https://quanta.spssa.ir)**, Head ('19-'21)
+
+## Participations
+* **ETH Zurich**, Visitor, Quantum Thermodynamics Summer School ('21)
+* **Universidade de São Paulo**, Visitor, Mini-Course in Quantum Thermodynamics ('20)
