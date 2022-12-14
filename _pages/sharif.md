@@ -9,7 +9,7 @@ The purpose of this page is to help Sharif University of Technology undergraduat
 ## Laboratory Reports
 Here are my lab reports. Use them at your own risk.
 
-### General Lab III
+### General Lab III ('21)
 
 | Experiment       | Report   | Experiment       | Report   | 
 | -----------   | -------   | ----------   | -------   | 
@@ -18,7 +18,7 @@ Here are my lab reports. Use them at your own risk.
 | Speed of Light  | [PDF](/files/GL3-5.pdf)| Siphon  | [PDF](/files/GL3-6.pdf)| 
 | Quincke Tube  | [PDF](/files/GL3-7.pdf)| | |
 
-### General Lab IV
+### General Lab IV ('20)
 
 | Experiment       | Report   | Experiment       | Report   | 
 | -----------   | -------   | ----------   | -------   | 
@@ -27,7 +27,7 @@ Here are my lab reports. Use them at your own risk.
 | X-ray Absorption  | [PDF](/files/GL4-5.pdf)| Franck–Hertz | [PDF](/files/GL4-6.pdf)| 
 | Photoelectric Effect  | [PDF](/files/GL4-7.pdf)| X-ray Ionization | [PDF](/files/GL4-8.pdf)|
 
-### Optic Lab
+### Optic Lab ('21)
 
 | Experiment       | Report   | Experiment       | Report   | 
 | -----------   | -------   | ----------   | -------   | 
@@ -37,3 +37,14 @@ Here are my lab reports. Use them at your own risk.
 | Dielectric Effect  | [PDF](/files/Opt-7.pdf)| Michelson Interferometer | [PDF](/files/Opt-8.pdf)|
 | Refraction Index | [PDF](/files/Opt-9.pdf)| Uncertainty Principle | [PDF](/files/Opt-10.pdf)|
 | Optical Activity | [PDF](/files/Opt-11.pdf)| Fabry–Pérot Interferometer| [PDF](/files/Opt-12.pdf)|
+
+## Statistical Mechanics III ('21)
+During the spring semester of 2021, I worked as a teaching assistant for Prof. Ali Rezakhani's graduate course in statistical mechanics. Listed below are the problem sets I published at the time.
+
+| Problem Set |  File |   Topics |
+| -----------   | -------   | ----------   |  
+| Set 1   | [PDF](/files/SM3-1.pdf)   | Classical Thermodynamics: Entropy of Mixing, Photon Gas Carnot Cycle, Maximum Entropy Principle; Ensemble Theory: Classical Harmonic Oscillator, Quantum Harmonic Oscillator, Curie Susceptibility, Equipartition, Helmholtz Extensiveness. |
+| Set 2  | [PDF](/files/SM3-2.pdf)   | Density Operator: The Schmidt Decomposition, Thermal Radiation, Equivalence of Entropies, Spin 1/2 Particle |
+| Set 3  | [PDF](/files/SM3-3.pdf)   | Stochastic Processes: Rabbit Evolution, Knight’s Tour, Colored Balls, Transition Matrix, Random Walk, Birth and Death Processes, LGKS Equation |
+| Set 4  | [PDF](/files/SM3-4.pdf)   | Stochastic Processes: Fokker-Planck Equation, Random Walk and Diffusion Equation, Kramers-Moyal Equation, Backward Kramers-Moyal Equation, Pawula Theorem; Kinetic Theory: One-Dimensional Gas, Evolution of Entropy, Vlasov Equation, Two-Component Plasma |
+| Set 5  | [PDF](/files/SM3-5.pdf)   | Stochastic Processes: Generalized Langevin Equation; The Partition Function: Boltzmann Distribution, Ideal Bose Gas, The Lee-Yang Theorem in Electrostatics, Grand Partition Function |
