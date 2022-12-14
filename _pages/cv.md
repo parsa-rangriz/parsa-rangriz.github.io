@@ -9,51 +9,34 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Education
+* **Sharif University of Technology**, B.S. in Physics ('18-'23)
+* **Sharif University of Technology**, Minor B.S. in Mathematics ('18-'23)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Research Experiences
+* **EPFL**, Summer Research Intern ('22)
+  * _The replica symmetric solution for the dense assortative partitions was studied. The project aims to understand the phase transitions and compares the partition of the fully connected in the limit of thermodynamics with the metastable states in diluted Hopﬁeld networks._
+* **Sharif University of Technology**, Research Assistant ('21-'22)
+  * _The properties of a new random regular graph generator called the pi-lift method were studied. The goal of the project was to obtain the combinatorial properties of the generated graph by using the message-passing algorithms. In other words, we computed the partition function of the Ising model associated with the min-cut of the graph to show the differences between this method and other traditional methods of generating random graphs._
+* **The University of Manchester**, Remote Research Intern ('21-'22)
+  * _Working on the thermodynamics of the non-conjugate quantum subsystems, an alternative way to decompose quantum systems into interacting parts. Using the second law of thermodynamics as a guide, we were able to conﬁrm the law in the introduced representation with the coarse-grained entropy._
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Honors and Awards
+* Awarded the **Summer@EPFL 2022** Fellowship ('22)
+* Ranked 5th in the **26th Iran Universities Physics Olympiad**, Sanjesh Organization, Iran. ('21)
+* Silver Medal in the **30th Iran National Physics Olympiad**, Young Scholars’ Club, Iran. ('17)
+* Awarded Scholarship from **Iran’s National Elites Foundation**. ('18 - Present)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+## Teaching Assistant Experiences
+* **Sharif University of Technology**
+  * Statistical Mechanics III: Prof. Shahin Rouhani (‘22)
+  * Statistical Mechanics III: Prof. Vahid Karimipour (‘21))
+  * Statistical Mechanics III: Prof. Ali Rezakhani (‘21)
+  * Statistical Mechanics II: Prof. Vahid Karimipour (‘21)
+  * Statistical Mechanics I: Prof. Vahid Karimipour (‘20)
+  * General Physics III: Prof. Omid Akhavan (‘19)
+  * Fundamentals of C Programming: Dr. Marjan Nikbin (‘18)
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Extracurricular Activities
+* Sharif Physics Scientific Student Association, Scientific-Cultural Manager ('19-'20)
+* Quanta - Sharif Physics Study Circles, Head ('19-'21)
