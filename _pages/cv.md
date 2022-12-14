@@ -14,11 +14,11 @@ redirect_from:
 * **Sharif University of Technology**, Minor B.S. in Mathematics ('18-'23)
 
 ## Research Experiences
-* **EPFL**, Summer Research Intern ('22)
+* **EPFL**, Summer Research Intern, Prof. Lenka Zdeborová ('22)
   * _The replica symmetric solution for the dense assortative partitions was studied. The project aims to understand the phase transitions and compares the partition of the fully connected in the limit of thermodynamics with the metastable states in diluted Hopﬁeld networks._
-* **Sharif University of Technology**, Research Assistant ('21-'22)
+* **Sharif University of Technology**, Research Assistant, Prof. Amir Daneshgar ('21-'22)
   * _The properties of a new random regular graph generator called the pi-lift method were studied. The goal of the project was to obtain the combinatorial properties of the generated graph by using the message-passing algorithms. In other words, we computed the partition function of the Ising model associated with the min-cut of the graph to show the differences between this method and other traditional methods of generating random graphs._
-* **The University of Manchester**, Remote Research Intern ('21-'22)
+* **The University of Manchester**, Remote Research Intern, Dr. Ahsan Nazir ('21-'22)
   * _Working on the thermodynamics of the non-conjugate quantum subsystems, an alternative way to decompose quantum systems into interacting parts. Using the second law of thermodynamics as a guide, we were able to conﬁrm the law in the introduced representation with the coarse-grained entropy._
 
 ## Honors and Awards
