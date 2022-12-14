@@ -7,16 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! My name is Parsa Rangriz. With a B.Sc. in physics and minor in mathematics (2018-2023) at Sharif University of Technology in Iran, my research interests center around probability theory, statistical physics, spin glasses, random graphs, and combinatorial optimization problems that combine these areas. Check out my [resume](/files/vitae.pdf) for more information. 
 
-## Research Experiences
-- **[EPFL](https://www.epfl.ch/en/)**, Switzerland,  Research Intern (Jul 2022 - Sep 2022)
-    * Program: [Summer@EPFL 2022](https://summer.epfl.ch/)
-    * Supervisor: [Prof. Lenka Zdeborová](https://people.epfl.ch/lenka.zdeborova/?lang=en)
-    * Project: _Assortative partition of fully connected graphs._
-- **[Sharif University of Technology](https://en.sharif.edu/)**, Iran, Research Assistant (Oct 2021 - Jun 2022)
-    * Supervisor: [Prof. Amir Daneshgar](http://mathsci.sharif.ir/faculties/daneshgar)
-    * Project: _Combinatorial properties of a new random regular graph generator._
-- **[The University of Manchester](https://www.manchester.ac.uk/)**, UK, Research Intern (Jul 2021 - Mar 2022)
-    * Supervisor: [Dr. Ahsan Nazir](https://www.research.manchester.ac.uk/portal/ahsan.nazir.html)
-    * Project: _Thermodynamics of non-conjugate quantum subsystems._
+Hi! I am Parsa Rangriz. A prospective PhD student in Mathematics with a B.Sc. in Physics and a minor in Mathematics (Sep 2018- Jan 2023) at [Sharif University of Technology](https://en.sharif.edu) in Iran. My research interests ceneter around probability, statistical physics, spin glasses, random graphs, and combinatorial optimization problems that combine these areas. In more details, I am interested in the rigorous random graphs problems related to different graphical models, such as stochastic block models and regular graphs; and different spin glass models such as Sherrington–Kirkpatrick and spherical p-spin. In addition, I am eager to research on the behavior of models in optimizing the mean-field or TAP free energies and bounding the combinatorial properties, e.g., the fraction of edges in a maximum cut.
+
+Besides my academic career, I do enjoy studying history, especially around ancient dynasties (Greece, Persia, Egypt, Rome), Islamic civilization, and Medieval ages. Also, I am interested in historical linguistics (language changes, langauge origins). My fluent language knowledge of Persian, Turkic (Turkish and Azerbaijani), and English helped me dig into the deep connections between the languages. Moreover, I do love Persian literature and peoms, and have been read lots of books, such as [Omar Khayyam](https://en.wikipedia.org/wiki/Omar_Khayyam)'s, [Rumi](https://en.wikipedia.org/wiki/Rumi)'s, and [Saadi Shirazi](https://en.wikipedia.org/wiki/Saadi_Shirazi). 
