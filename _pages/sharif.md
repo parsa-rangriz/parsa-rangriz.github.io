@@ -4,11 +4,12 @@ title: "4Sharif"
 author_profile: true
 redirect_from: 
 ---
-This page is for undergraduates at Sharif University of Technology, espcailly physics students. Here I put some useful notes and remarkable stuff which could be helpful for them. They are open and you don't need any permission to use them.
+This page is for Sharif University of Technology undergraduates, especially physics students. Here I put some useful notes and remarkable stuff which could be helpful for them. They are open, and you don't need permission to use them.
 
 ## Laboratory Reports
+These are my reports for the general laboratory courses. Use them at your own risk.
+
 ### General Lab III
-These are my reports for the course of General Laboratory III in 2021. Use them at your own risk.
 
 | Experiment       | Report   | Experiment       | Report   | 
 | -----------   | -------   | ----------   | -------   | 
@@ -18,7 +19,6 @@ These are my reports for the course of General Laboratory III in 2021. Use them 
 | Quincke Tube  | [PDF](/files/GL3-7.pdf)| | |
 
 ### General Lab IV
-These are my reports for the course of General Laboratory IV in 2020. Use them at your own risk.
 
 | Experiment       | Report   | Experiment       | Report   | 
 | -----------   | -------   | ----------   | -------   | 
