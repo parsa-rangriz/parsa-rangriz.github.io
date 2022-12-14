@@ -27,8 +27,8 @@ redirect_from:
 * Silver Medal in the **30th Iran National Physics Olympiad**, Young Scholars’ Club, Iran. ('17)
 * Awarded Scholarship from **Iran’s National Elites Foundation**. ('18 - Present)
 
-## Teaching Assistant Experiences
-* **Sharif University of Technology**
+## Work Experiences
+* **Sharif University of Technology**, Teaching Assistant
   * Statistical Mechanics III: Prof. Shahin Rouhani (‘22)
   * Statistical Mechanics III: Prof. Vahid Karimipour (‘21))
   * Statistical Mechanics III: Prof. Ali Rezakhani (‘21)
@@ -38,5 +38,5 @@ redirect_from:
   * Fundamentals of C Programming: Dr. Marjan Nikbin (‘18)
   
 ## Extracurricular Activities
-* Sharif Physics Scientific Student Association, Scientific-Cultural Manager ('19-'20)
-* Quanta - Sharif Physics Study Circles, Head ('19-'21)
+* **Sharif Physics Scientific Student Association**, Scientific-Cultural Manager ('19-'20)
+* **Quanta - Sharif Physics Study Circles**, Head ('19-'21)
