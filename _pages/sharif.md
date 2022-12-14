@@ -1,6 +1,6 @@
 ---
 permalink: /sharif/
-title: "4Sharif"
+title: "4Sharif's"
 author_profile: true
 redirect_from: 
 ---
@@ -27,3 +27,13 @@ These are my reports for the general laboratory courses. Use them at your own ri
 | X-ray Absorption  | [PDF](/files/GL4-5.pdf)| Franck–Hertz | [PDF](/files/GL4-6.pdf)| 
 | Photoelectric Effect  | [PDF](/files/GL4-7.pdf)| X-ray Ionization | [PDF](/files/GL4-8.pdf)|
 
+### Optic Lab
+
+| Experiment       | Report   | Experiment       | Report   | 
+| -----------   | -------   | ----------   | -------   | 
+| Cauchy's Transmission | [PDF](/files/Opt-1.pdf)|  Light Dispersion  | [PDF](/files/Opt-2.pdf)| 
+| Malus's Law  | [PDF](/files/Opt-3.pdf)| Fresnel Prism | [PDF](/files/Opt-4.pdf)| 
+| Thick Lens  | [PDF](/files/Opt-5.pdf)| Fraunhofer Diffraction | [PDF](/files/Opt-6.pdf)| 
+| Dielectric Effect  | [PDF](/files/Opt-7.pdf)| Michelson Interferometer | [PDF](/files/Opt-8.pdf)|
+| Refraction Index | [PDF](/files/Opt-9.pdf)| Uncertainty Principle | [PDF](/files/Opt-10.pdf)|
+| Optical Activity | [PDF](/files/Opt-11.pdf)| Fabry–Pérot Interferometer| [PDF](/files/Opt-12.pdf)|
