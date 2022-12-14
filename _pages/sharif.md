@@ -41,7 +41,7 @@ Here are my lab reports. Use them at your own risk.
 ## Statistical Mechanics III
 During the spring semester of 2021, I worked as a teaching assistant for [Prof. Ali Rezakhani](http://sharif.edu/~rezakhani/Home.html)'s graduate course in statistical mechanics. Listed below are the problem sets I published at the time.
 
-| Set |  File |   Topics |
+| Problem Set No. |  File |   Topics |
 | -----------   | -------   | ----------   |  
 | Set 1   | [PDF](/files/SM3-1.pdf)   | Classical Thermodynamics: Entropy of Mixing, Photon Gas Carnot Cycle, Maximum Entropy Principle; Ensemble Theory: Classical Harmonic Oscillator, Quantum Harmonic Oscillator, Curie Susceptibility, Equipartition, Helmholtz Extensiveness. |
 | Set 2  | [PDF](/files/SM3-2.pdf)   | Density Operator: The Schmidt Decomposition, Thermal Radiation, Equivalence of Entropies, Spin 1/2 Particle |
