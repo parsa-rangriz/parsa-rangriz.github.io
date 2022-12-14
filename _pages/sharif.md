@@ -38,10 +38,10 @@ Here are my lab reports. Use them at your own risk.
 | Refraction Index | [PDF](/files/Opt-9.pdf)| Uncertainty Principle | [PDF](/files/Opt-10.pdf)|
 | Optical Activity | [PDF](/files/Opt-11.pdf)| Fabry–Pérot Interferometer| [PDF](/files/Opt-12.pdf)|
 
-## Statistical Mechanics III ('21)
-During the spring semester of 2021, I worked as a teaching assistant for Prof. Ali Rezakhani's graduate course in statistical mechanics. Listed below are the problem sets I published at the time.
+## Statistical Mechanics III
+During the spring semester of 2021, I worked as a teaching assistant for [Prof. Ali Rezakhani](http://sharif.edu/~rezakhani/Home.html)'s graduate course in statistical mechanics. Listed below are the problem sets I published at the time.
 
-| Problem Set |  File |   Topics |
+| Set |  File |   Topics |
 | -----------   | -------   | ----------   |  
 | Set 1   | [PDF](/files/SM3-1.pdf)   | Classical Thermodynamics: Entropy of Mixing, Photon Gas Carnot Cycle, Maximum Entropy Principle; Ensemble Theory: Classical Harmonic Oscillator, Quantum Harmonic Oscillator, Curie Susceptibility, Equipartition, Helmholtz Extensiveness. |
 | Set 2  | [PDF](/files/SM3-2.pdf)   | Density Operator: The Schmidt Decomposition, Thermal Radiation, Equivalence of Entropies, Spin 1/2 Particle |
