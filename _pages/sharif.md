@@ -4,10 +4,10 @@ title: "4Sharif's"
 author_profile: true
 redirect_from: 
 ---
-This page is for Sharif University of Technology undergraduates, especially physics students. Here I put some useful notes and remarkable stuff which could be helpful for them. They are open, and you don't need permission to use them.
+The purpose of this page is to help Sharif University of Technology undergraduates, especially physics students. I've put some useful notes and remarkable stuff here that may be helpful to them. Using them is free, and you don't need permission.
 
 ## Laboratory Reports
-These are my reports for the general laboratory courses. Use them at your own risk.
+Here are my lab reports. Use them at your own risk.
 
 ### General Lab III
 
