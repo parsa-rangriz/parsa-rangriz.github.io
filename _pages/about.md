@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! My name is Parsa Rangriz. I am a prospective Ph.D. student with a B.Sc. at Sharif University of Technology with majoring in Physics and minoring in Mathematics. 
+Hi! My name is Parsa Rangriz. I am a prospective Ph.D. student with a B.Sc. at Sharif University of Technology majoring in Physics and minoring in Mathematics. 
 
 Research Interests:
 * High Dimensional Statistics
