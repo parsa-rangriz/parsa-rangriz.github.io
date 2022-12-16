@@ -9,7 +9,7 @@ The purpose of this page is to help Sharif University of Technology undergraduat
 ## Laboratory Reports
 Here are my lab reports. Use them at your own risk.
 
-### General Lab III ('21)
+### Physics III Lab ('21)
 
 | Experiment       | Report   | Experiment       | Report   | 
 | -----------   | -------   | ----------   | -------   | 
@@ -18,16 +18,16 @@ Here are my lab reports. Use them at your own risk.
 | Speed of Light  | [PDF](/files/GL3-5.pdf)| Siphon  | [PDF](/files/GL3-6.pdf)| 
 | Quincke Tube  | [PDF](/files/GL3-7.pdf)| | |
 
-### General Lab IV ('20)
+### Physics IV Lab ('20)
 
 | Experiment       | Report   | Experiment       | Report   | 
 | -----------   | -------   | ----------   | -------   | 
 | Compton Effect  | [PDF](/files/GL4-1.pdf)|  Hall Effect  | [PDF](/files/GL4-2.pdf)| 
-| Electron diffraction  | [PDF](/files/GL4-3.pdf)| Rydberg’s Constant  | [PDF](/files/GL4-4.pdf)| 
+| Electron Diffraction  | [PDF](/files/GL4-3.pdf)| Rydberg’s Constant  | [PDF](/files/GL4-4.pdf)| 
 | X-ray Absorption  | [PDF](/files/GL4-5.pdf)| Franck–Hertz | [PDF](/files/GL4-6.pdf)| 
 | Photoelectric Effect  | [PDF](/files/GL4-7.pdf)| X-ray Ionization | [PDF](/files/GL4-8.pdf)|
 
-### Optic Lab ('21)
+### Optics Lab ('21)
 
 | Experiment       | Report   | Experiment       | Report   | 
 | -----------   | -------   | ----------   | -------   | 
@@ -37,6 +37,15 @@ Here are my lab reports. Use them at your own risk.
 | Dielectric Effect  | [PDF](/files/Opt-7.pdf)| Michelson Interferometer | [PDF](/files/Opt-8.pdf)|
 | Refraction Index | [PDF](/files/Opt-9.pdf)| Uncertainty Principle | [PDF](/files/Opt-10.pdf)|
 | Optical Activity | [PDF](/files/Opt-11.pdf)| Fabry–Pérot Interferometer| [PDF](/files/Opt-12.pdf)|
+
+### Solid State Physics Lab ('22)
+
+| Experiment       | Report   | Experiment       | Report   | 
+| -----------   | -------   | ----------   | -------   | 
+| Solar Cell | [PDF](/files/SSP-1.pdf) | Electron Spin Resonance | [PDF](/files/SSP-2.pdf) |
+| Hall Effect | [PDF](/files/SSP-3.pdf) | X-ray Diffraction | [PDF](/files/SSP-4.pdf) |
+| Magnetic Materials | [PDF](/files/SSP-5.pdf) | Hysteresis Curve | [PDF](/files/SSP-6.pdf) |
+| Ferromagnetism | [PDF](/files/SSP-7.pdf) | | |
 
 ## Statistical Mechanics III
 During the spring semester of 2021, I worked as a teaching assistant for [Prof. Ali Rezakhani](http://sharif.edu/~rezakhani/Home.html)'s graduate course in statistical mechanics. Listed below are the problem sets I published at the time.
