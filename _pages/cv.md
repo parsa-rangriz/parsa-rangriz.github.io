@@ -30,7 +30,7 @@ redirect_from:
 ## Work Experiences
 * **Sharif University of Technology**, Teaching Assistant
   * Statistical Mechanics III: Prof. Shahin Rouhani (‘22)
-  * Statistical Mechanics III: Prof. Vahid Karimipour (‘21))
+  * Statistical Mechanics III: Prof. Vahid Karimipour (‘21)
   * Statistical Mechanics III: Prof. Ali Rezakhani (‘21)
   * Statistical Mechanics II: Prof. Vahid Karimipour (‘21)
   * Statistical Mechanics I: Prof. Vahid Karimipour (‘20)
