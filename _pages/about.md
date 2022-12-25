@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "About Me"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -15,5 +15,8 @@ Research Interests:
 * Random Graphs and Matrices
 * Spin Glass Theory
 * Combinatorial Optimization
+
+I am primarily interested in the rigorous random graphs problems with different graphical models and spin glasses. I am curious about the behavior of such models in optimizing the mean-field free energies and bounding the combinatorial properties. 
+
 
 Check out my [CV](/cv) for more information.
