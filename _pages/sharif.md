@@ -47,6 +47,20 @@ Here are my lab reports. Use them at your own risk.
 | Magnetic Materials | [PDF](/files/SSP-5.pdf) | Hysteresis Curve | [PDF](/files/SSP-6.pdf) |
 | Ferromagnetism | [PDF](/files/SSP-7.pdf) | | |
 
+## Exams
+Here are some of the exams I took during my bachelor's. You can use them to prepare for your tests.
+
+| Course | Instructor | Exams | Course | Instructor |  Exams |
+| -------- | --------- | -------- | -------- | --------- | --------- |
+| Analytical Mechanics I | Prof. Baghram | Mid1, Mid2, Final | Analytical Mechanics II | Prof. Baghram | Mid1, Mid2, Final | 
+| Intro. Elementary Particles | Prof. Faraji | Mid, Final | Complex Systems | Prof. Rouhani | Final | 
+| Solid State Physics 1 | Prof. Esfandiar | Mid, Final | Quantum Information | Prof. Karimipour | Mid, Final |
+| Information Theory, Statistics, and Learning | Prof. Yasaei | Final | Statistical Mechanics III | Prof. Rezakhani | Mid, Final |
+| Statistical Mechanics I | Prof. Karimipour | Mid, Final | Statistical Mechanics II | Prof. Karimipour | Mid, Final |
+| Electromagnetics II | Prof. Bahmanabadi | Mid1, Mid2, Final | 
+
+
+
 ## Statistical Mechanics III
 During the spring semester of 2021, I worked as a teaching assistant for [Prof. Ali Rezakhani](http://sharif.edu/~rezakhani/Home.html)'s graduate course in statistical mechanics. Listed below are the problem sets I published at the time.
 
