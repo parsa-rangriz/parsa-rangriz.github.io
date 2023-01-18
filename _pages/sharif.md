@@ -48,16 +48,16 @@ Here are my lab reports. Use them at your own risk.
 | Ferromagnetism | [PDF](/files/SSP-7.pdf) | | |
 
 ## Exams
-Here are some of the exams I took during my bachelor's. You can use them to prepare for your tests.
+Here are some of the exams I took during my bachelor's. You can use them to prepare.
 
 | Course | Instructor | Exams | Course | Instructor |  Exams |
 | -------- | --------- | -------- | -------- | --------- | --------- |
-| Analytical Mechanics I | Prof. Baghram | Mid1, Mid2, Final | Analytical Mechanics II | Prof. Baghram | Mid1, Mid2, Final | 
-| Intro. Elementary Particles | Prof. Faraji | Mid, Final | Complex Systems | Prof. Rouhani | Final | 
-| Solid State Physics 1 | Prof. Esfandiar | Mid, Final | Quantum Information | Prof. Karimipour | Mid, Final |
-| Information Theory, Statistics, and Learning | Prof. Yasaei | Final | Statistical Mechanics III | Prof. Rezakhani | Mid, Final |
-| Statistical Mechanics I | Prof. Karimipour | Mid, Final | Statistical Mechanics II | Prof. Karimipour | Mid, Final |
-| Electromagnetics II | Prof. Bahmanabadi | Mid1, Mid2, Final | 
+| Analytical Mechanics I | Prof. Baghram | Mid1, Mid2, Final | Analytical Mechanics II | Prof. Baghram | Mid1, Mid2, [Final](/files/AM_Fin.pdf) | 
+| Intro. Elementary Particles | Prof. Faraji | [Mid](/files/EP_Mid.pdf), [Final](/files/EP_Fin.pdf) | Complex Systems | Prof. Rouhani | [Final](/files/CS-Fin.pdf) | 
+| Solid State Physics 1 | Prof. Esfandiar | [Mid](/files/SSP_Mid.pdf), [Final](/files/SSP_Fin.pdf) | Quantum Information | Prof. Karimipour | [Mid](/files/QI_Mid.pdf), [Final](/files/QI_Fin.pdf) |
+| Information Theory, Statistics, and Learning | Prof. Yasaei | [Final](/files/ITSL_Fin.pdf) | Statistical Mechanics III | Prof. Rezakhani | [Mid](/files/SM3_Mid_R.pdf), [Final](/files/SM3_Fin.pdf) |
+| Statistical Mechanics I | Prof. Karimipour | [Final](/files/SM1_Fin_K.pdf) | Statistical Mechanics II | Prof. Karimipour | [Mid](/files/SM2_Mid_K.pdf), [Final](/files/SM2_Fin_K.pdf) |
+| Electromagnetics II | Prof. Bahmanabadi | [Mid1](/files/EM2_Mid1.pdf), [Mid2](/files/EM2_Mid2.pdf), [Final](/files/EM2_Fin.pdf) | Solid State Physics Lab | Prof. Esfandiar | [Final](/files/SSPL_Fin.pdf) |
 
 
 
