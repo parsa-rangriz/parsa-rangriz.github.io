@@ -58,6 +58,7 @@ Here are some of the exams I took during my bachelor's. You can use them to prep
 | Information Theory, Statistics, and Learning | Prof. Yasaei | [Final](/files/ITSL_Fin.pdf) | Statistical Mechanics III | Prof. Karimipour | [Final](/files/SM3_Fin.pdf) |
 | Statistical Mechanics I | Prof. Karimipour | [Final](/files/SM1_Fin_K.pdf) | Statistical Mechanics II | Prof. Karimipour | [Mid](/files/SM2_Mid_K.pdf), [Final](/files/SM2_Fin_K.pdf) |
 | Electromagnetics II | Prof. Bahmanabadi | [Mid1](/files/EM2_Mid1.pdf), [Mid2](/files/EM2_Mid2.pdf), [Final](/files/EM2_Fin.pdf) | Solid State Physics Lab | Prof. Esfandiar | [Final](/files/SSPL_Fin.pdf) |
+| Advanced Statistics | Prof. Alishahi | [Final](/files/AdvStat_F.pdf) | Speical Relativity | Prof. Baghram | [Final](/files/SR_Fin.pdf) |
 
 
 
