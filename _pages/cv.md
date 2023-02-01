@@ -35,16 +35,6 @@ redirect_from:
   * Statistical Mechanics II: Prof. Vahid Karimipour, Spring 2021
   * Statistical Mechanics I: Prof. Vahid Karimipour, Fall 2020
 
-## Course Projects (Unpublished Works)
-* **Information Theoretic Methods in High-Dimensional Probability**
-  * Parsa Rangriz, Amir Hossein Boreiri, ["Variational Inference in LDPC Codes"](https://www.rangriz.com/files/Variational_Inference_in_LDPC_Codes.pdf), 2021
-* **Entropy Maximization and Variational Optimization**
-  * Parsa Rangriz, ["Belief Propagation for Graph Partitioning"](https://www.rangriz.com/files/BP_for_Graph_Partitioning.pdf), 2021
-* **Machine Learning in Physics**
-  * Yasamin Panahi, Parsa Rangriz, Asra Rezafadaei, ["Phase Transition of the Transverse-Field Ising Model"](https://www.rangriz.com/files/Phase_Transitions_in_Quantum_Ising_Model.pdf), 2020
-* **Quantum Mechanics III**
-  * Parsa Rangriz, "An Introduction to Quantum Thermodynamics", 2020
-
 ## Extracurricular Activities
 * **[Sharif Physics Scientific Student Association](https://spssa.ir)**, Scientific-Cultural Manager, 2019-2020
 * **[Quanta - Sharif Physics Study Circles](https://quanta.spssa.ir)**, Head, 2019-2020
