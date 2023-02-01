@@ -22,7 +22,7 @@ redirect_from:
   * _Supervisor: [Dr. Ahsan Nazir](https://research.manchester.ac.uk/en/persons/ahsan.nazir)_
 
 ## Honors and Awards
-* Awarded the Summer@EPFL 2022 Fellowship, 2022
+* Awarded the **Summer@EPFL** Fellowship, 2022
 * Ranked 5th in the **26th Iran Universities Physics Olympiad**, Sanjesh Organization, Iran, 2021
 * Silver Medal in the **30th Iran National Physics Olympiad**, Young Scholars’ Club, Iran, 2017
 * Awarded Scholarship from **Iran’s National Elites Foundation**, 2018 - Present
