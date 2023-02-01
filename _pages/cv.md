@@ -19,7 +19,7 @@ redirect_from:
 * **EPFL**, Research Intern, 2022
   * _Supervisor: [Prof. Lenka Zdeborová](https://people.epfl.ch/lenka.zdeborova/?lang=en)_
 * **Sharif University of Technology**, Research Assistant, 2022
-  * _Supervisor: [Prof. Amir Daneshgar](http://mathsci.sharif.ir/faculties/daneshgar/)_
+  * _Supervisor: [Prof. Amir Daneshgar](http://math.sharif.ir/faculties/daneshgar)_
 * **The University of Manchester**, Remote Research Intern, 2021
   * _Supervisor: [Dr. Ahsan Nazir](https://research.manchester.ac.uk/en/persons/ahsan.nazir)_
 
