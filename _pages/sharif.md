@@ -4,10 +4,10 @@ title: "4Sharif's"
 author_profile: true
 redirect_from: 
 ---
-The purpose of this page is to help Sharif University of Technology undergraduates, especially physics students. I've put some stuff here that may be helpful to them. Using them is free, and you don't need permission.
+Welcome to 4Sharif's! This page is all about helping out our friends at Sharif University of Technology, especially those studying physics. I've gathered some resources that could be of great use to you, and the best part is that they're available for free and you don't need to ask for permission to use them. Enjoy!
 
 ## Laboratory Reports
-Here are my lab reports. Use them at your own risk.
+Note: Using someone else's lab reports as your own is considered academic misconduct and can result in serious consequences. It is recommended to always complete your own work and properly cite any sources used.
 
 ### Physics III Lab ('21)
 
@@ -48,7 +48,7 @@ Here are my lab reports. Use them at your own risk.
 | Ferromagnetism | [PDF](/files/SSP-7.pdf) | | |
 
 ## Exams
-Here are some of the exams I took during my bachelor's. You can use them to prepare.
+Note: Using previous exams as a study resource is generally acceptable, but it is important to follow your instructor's guidelines. Additionally, relying solely on previous exams can limit your understanding of the material and may not accurately reflect the current course content. It is recommended to use past exams as a supplement to your own learning and preparation.
 
 | Course | Instructor | Exams | Course | Instructor |  Exams |
 | -------- | --------- | -------- | -------- | --------- | --------- |
@@ -63,7 +63,7 @@ Here are some of the exams I took during my bachelor's. You can use them to prep
 
 
 ## Statistical Mechanics III
-During the spring semester of 2021, I worked as a teaching assistant for [Prof. Ali Rezakhani](http://sharif.edu/~rezakhani/Home.html)'s graduate course in statistical mechanics. Listed below are the problem sets I published at the time.
+During the spring semester of 2021, I had the opportunity to work as a teaching assistant for [Prof. Ali Rezakhani](http://sharif.edu/~rezakhani/Home.html)'s graduate course in statistical mechanics. I am excited to share the problem sets that I published during that time. They may be useful as a study resource for students interested in the subject. Please keep in mind that the course content and material may have been updated since then.
 
 | Problem Set No. |  File |   Topics |
 | -----------   | -------   | ----------   |  
