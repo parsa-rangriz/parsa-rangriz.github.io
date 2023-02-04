@@ -39,7 +39,7 @@ redirect_from:
   * Statistical Mechanics I: Prof. Vahid Karimipour, Fall 2020
 
 ## Extracurricular Activities
-* **[Sharif Physics Scientific Student Association](https://spssa.ir)**, Scientific-Cultural Manager, 2019-2020
+* **[Sharif Physics Scientific Student Association](https://spssa.ir)**, Student Culture and Science Coordinator, 2019-2020
 * **[Quanta - Sharif Physics Study Circles](https://quanta.spssa.ir)**, Head, 2019-2020
 
 ## Participations
