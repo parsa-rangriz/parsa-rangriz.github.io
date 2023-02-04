@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! My name is Parsa Rangriz. I am a prospective Ph.D. student with a B.Sc. at Sharif University of Technology majoring in Physics and minoring in Mathematics. 
+Hi! I am Parsa Rangriz, a B.Sc. graduate from Sharif University of Technology in Physics with a minor in Mathematics. 
 
 Research Interests:
 * High Dimensional Statistics
@@ -16,7 +16,6 @@ Research Interests:
 * Spin Glass Theory
 * Combinatorial Optimization
 
-I am primarily interested in the rigorous random graphs problems with different graphical models and spin glasses. I am curious about the behavior of such models in optimizing the mean-field free energies and bounding the combinatorial properties. 
+My passion lies in exploring the complexities of random graph problems and spin glasses, and uncovering their potential in optimizing mean-field free energies and studuing combinatorial properties.
 
-
-Check out my [CV](/cv) for more information.
+To learn more about my qualifications and experience, please visit my [CV](/cv).
