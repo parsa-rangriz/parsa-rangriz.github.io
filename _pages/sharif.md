@@ -7,7 +7,7 @@ redirect_from:
 Welcome to 4Sharif's! This page is all about helping out our friends at Sharif University of Technology, especially those studying physics. I've gathered some resources that could be of great use to you, and the best part is that they're available for free and you don't need to ask for permission to use them. Enjoy!
 
 ## Administrative Processes and Educational Services
-Here I try to explain the administrative processes and educational services, which are sometimes very complicated and unusual, in a simple language through the experiences that have existed before. If there have been any changes in any of the described processes and the working method has changed, you can inform me through the email below.
+Here I try to explain the administrative processes and educational services, which are sometimes very complicated and unusual, in a simple language through the experiences that have existed before. If there have been any changes in any of the described processes and the working method has changed, you can inform me.
 
   * [Offical Access to International Scientific Resources](https://docs.google.com/document/d/1euOIXuhRzhtx9LPAMQIYouMWp4zLEpkaHmIPzjvdPhI/edit?usp=sharing)
   * [Request to Leave the Country](https://docs.google.com/document/d/1ZU3BrfY7QMYu7GJGw3aMly35g-Rg0gXPLJUky9T92Ng/edit?usp=sharing)
