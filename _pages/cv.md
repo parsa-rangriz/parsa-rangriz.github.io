@@ -14,8 +14,8 @@ redirect_from:
 * **Sharif University of Technology**, Minor B.Sc. in Mathematics, 2023
 
 ## Research Experiences
-* **Sharif University of Technology**, Research Assistant, 2023
-  * _Supervisors: [Prof. Saman Moghimi](http://physics.sharif.ir/~phyweb/saman-moghimi-araghi/) & [Prof. Abolfazl Ramezanpour](https://sites.google.com/site/abolfazlramezanpour/home) (Shiraz University)_
+<!-- * **Sharif University of Technology**, Research Assistant, 2023
+  * _Supervisors: [Prof. Saman Moghimi](http://physics.sharif.ir/~phyweb/saman-moghimi-araghi/) & [Prof. Abolfazl Ramezanpour](https://sites.google.com/site/abolfazlramezanpour/home) (Shiraz University)_ -->
 * **EPFL**, Research Intern, 2022
   * _Supervisor: [Prof. Lenka Zdeborová](https://people.epfl.ch/lenka.zdeborova/?lang=en)_
 * **Sharif University of Technology**, Research Assistant, 2022
