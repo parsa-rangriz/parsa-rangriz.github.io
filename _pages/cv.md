@@ -12,7 +12,7 @@ redirect_from:
 ## Education
 * **University of Waterloo**, MMath in Statistics, 2023-
 * **Sharif University of Technology**, BS in Physics, 2018-2022
-* **Sharif University of Technology**, Minor B.Sc. in Mathematics, 2019-2022
+* **Sharif University of Technology**, Minor BS in Mathematics, 2019-2022
 
 ## Research Experiences
 <!-- * **Sharif University of Technology**, Research Assistant, 2023
