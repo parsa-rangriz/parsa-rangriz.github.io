@@ -10,8 +10,9 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* **Sharif University of Technology**, B.Sc. in Physics, 2023
-* **Sharif University of Technology**, Minor B.Sc. in Mathematics, 2023
+* **University of Waterloo**, MMath in Statistics, 2023-
+* **Sharif University of Technology**, BS in Physics, 2018-2022
+* **Sharif University of Technology**, Minor B.Sc. in Mathematics, 2019-2022
 
 ## Research Experiences
 <!-- * **Sharif University of Technology**, Research Assistant, 2023
@@ -20,7 +21,7 @@ redirect_from:
   * _Supervisor: [Prof. Lenka Zdeborová](https://people.epfl.ch/lenka.zdeborova/?lang=en)_
 * **Sharif University of Technology**, Research Assistant, 2022
   * _Supervisor: [Prof. Amir Daneshgar](http://math.sharif.ir/faculties/daneshgar)_
-* **The University of Manchester**, Remote Research Intern, 2021
+* **University of Manchester**, Remote Research Intern, 2021
   * _Supervisor: [Dr. Ahsan Nazir](https://research.manchester.ac.uk/en/persons/ahsan.nazir)_
 
 ## Honors and Awards
