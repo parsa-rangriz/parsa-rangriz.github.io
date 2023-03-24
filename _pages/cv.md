@@ -47,3 +47,11 @@ redirect_from:
 ## Participations
 * **ETH Zurich**, Visitor, Quantum Thermodynamics Summer School, 2021
 * **Universidade de São Paulo**, Visitor, Mini-Course in Quantum Thermodynamics, 2020
+
+## Languages
+* Azeri Turkic: Native
+* Persian: Native
+* English: Fluent
+* Turkish: Fluent
+* Latin: Pre Intermediate
+* Arabic: Intermediate
