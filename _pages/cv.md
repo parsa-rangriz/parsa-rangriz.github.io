@@ -53,5 +53,5 @@ redirect_from:
 * Persian: Native
 * English: Fluent
 * Turkish: Fluent
-* Latin: Elementary
 * Arabic: Intermediate
+* Latin: Elementary
