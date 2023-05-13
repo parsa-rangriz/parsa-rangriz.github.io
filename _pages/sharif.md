@@ -4,7 +4,7 @@ title: "4Sharif's"
 author_profile: true
 redirect_from: 
 ---
-Welcome to 4Sharif's! This page is all about helping out our friends at Sharif University of Technology, especially those studying physics. I've gathered some resources that could be of great use to you, and the best part is that they're available for free and you don't need to ask for permission to use them. Enjoy!
+Welcome to 4Sharif's! This page is all about helping out my friends at Sharif University of Technology, especially those studying physics.
 
 ## Administrative Processes and Educational Services
 Here I try to explain the administrative processes and educational services, which are sometimes very complicated and unusual, in a simple language through the experiences that have existed before. If there have been any changes in any of the described processes and the working method has changed, you can inform me.
@@ -12,7 +12,7 @@ Here I try to explain the administrative processes and educational services, whi
   * [Offical Access to International Scientific Resources](https://docs.google.com/document/d/1euOIXuhRzhtx9LPAMQIYouMWp4zLEpkaHmIPzjvdPhI/edit?usp=sharing)
   * [Country Exit Request](https://docs.google.com/document/d/1ZU3BrfY7QMYu7GJGw3aMly35g-Rg0gXPLJUky9T92Ng/edit?usp=sharing)
   * [Passport Renewal](https://docs.google.com/document/d/1YXcG_UWKGIt1MkNTjGJXiTLxMBv16ZwDGhHj4UpoQh4/edit?usp=sharing)
-  * [Official Approval of Summer Internship](https://docs.google.com/document/d/1CfXVzdVDFHhR4SGVYqlKr5qPpEX_6F9NdPn_ucHK4Zo/edit?usp=sharing)
+  * [Country Exit Request for an Internship](https://docs.google.com/document/d/1CfXVzdVDFHhR4SGVYqlKr5qPpEX_6F9NdPn_ucHK4Zo/edit?usp=sharing)
   * [Country Exit Request After Graduation](https://docs.google.com/document/d/1040ownu_9lWAihhBmQtRLppK2IPQZOZzd2b7vj95yZs/edit?usp=sharing)
 
 ## Laboratory Reports
