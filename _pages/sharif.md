@@ -13,7 +13,8 @@ Here I try to explain the administrative processes and educational services, whi
   * [Country Exit Request](https://docs.google.com/document/d/1ZU3BrfY7QMYu7GJGw3aMly35g-Rg0gXPLJUky9T92Ng/edit?usp=sharing)
   * [Passport Renewal](https://docs.google.com/document/d/1YXcG_UWKGIt1MkNTjGJXiTLxMBv16ZwDGhHj4UpoQh4/edit?usp=sharing)
   * [Country Exit Request for an Internship](https://docs.google.com/document/d/1CfXVzdVDFHhR4SGVYqlKr5qPpEX_6F9NdPn_ucHK4Zo/edit?usp=sharing)
-  * [Country Exit Request After Graduation](https://docs.google.com/document/d/1040ownu_9lWAihhBmQtRLppK2IPQZOZzd2b7vj95yZs/edit?usp=sharing)
+  * [Country Exit Request after Graduation](https://docs.google.com/document/d/1040ownu_9lWAihhBmQtRLppK2IPQZOZzd2b7vj95yZs/edit?usp=sharing)
+  * [Physics@SUT Apply Doc](https://docs.google.com/spreadsheets/d/1Zk1THuVR64NTIRo9FpmihK19gbMLDqwc6jWFkw_tR2Q/edit?usp=sharing)
 
 ## Laboratory Reports
 Note: Using someone else's lab reports as your own is considered academic misconduct and can result in serious consequences. It is recommended to always complete your own work and properly cite any sources used.
