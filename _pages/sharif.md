@@ -61,8 +61,6 @@ Note: Using previous exams as a study resource is generally acceptable, but it i
 
 | Course | Instructor | Exams | Course | Instructor |  Exams |
 | -------- | --------- | -------- | -------- | --------- | --------- |
-| Analytical Mechanics I | Prof. Baghram | Mid1, Mid2, Final | Analytical Mechanics II | Prof. Baghram | Mid1, Mid2, [Final](/files/AM_Fin.pdf) | 
-| Intro. Elementary Particles | Prof. Faraji | [Mid](/files/EP_Mid.pdf), [Final](/files/EP_Fin.pdf) | Complex Systems | Prof. Rouhani | [Final](/files/CS-Fin.pdf) | 
 | Solid State Physics 1 | Prof. Esfandiar | [Mid](/files/SSP_Mid.pdf), [Final](/files/SSP_Fin.pdf) | Quantum Information | Prof. Karimipour | [Mid](/files/QI_Mid.pdf), [Final](/files/QI_Fin.pdf) |
 | Information Theory, Statistics, and Learning | Prof. Yasaei | [Final](/files/ITSL_Fin.pdf) | Statistical Mechanics III | Prof. Karimipour | [Final](/files/SM3_Fin.pdf) |
 | Statistical Mechanics I | Prof. Karimipour | [Final](/files/SM1_Fin_K.pdf) | Statistical Mechanics II | Prof. Karimipour | [Mid](/files/SM2_Mid_K.pdf), [Final](/files/SM2_Fin_K.pdf) |
