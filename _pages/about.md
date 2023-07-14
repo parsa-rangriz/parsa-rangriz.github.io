@@ -9,6 +9,6 @@ redirect_from:
 ---
 I'm an MMath student in Statistics at the University of Waterloo, advised by Prof. Aukosh Jagannath. My current research interests lie in probability theory, high-dimensional statistics, and mathematical physics. 
 
-I received my BSc in physics with a minor in mathematics at Sharif University of Technology in 2023. During my undergrad, I interned at Summer@EPFL 2022. Also, I did some research varying from quantum information and statistical physics to combinatorial optimization and variational algorithms.
+I received my BSc in physics with a minor in mathematics at Sharif University of Technology in 2023. During my undergrad, I interned at Summer@EPFL 2022, supervised by Prof. Lenka Zdeborova. Also, I did some research varying from quantum information and statistical physics to combinatorial optimization and variational algorithms.
 
 My CV (as of July 2023) can be found [here](/cv).
