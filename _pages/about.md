@@ -7,11 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! My name is Parsa Rangriz. I will start my MMath in Statistics at the University of Waterloo under the supervision of [Prof. Aukosh Jagannath](https://www.math.uwaterloo.ca/~a3jagann/) from Fall 2023. I also obtained my BS in Physics with a minor in Mathematics at Sharif University of Technology in Winter 2022. 
+I'm an MMath Student in Statistics at the University of Waterloo, advised by Prof. Aukosh Jagannath. My current research interests lie in probability theory, high-dimensional statistics, and mathematical physics. 
 
-Research Interests:
-* Probability, High Dimensional Statistics
-* Statistical Physics, Spin Glass Theory
-* Random Graphs, Combinatorial Optimization
+I received my BSc in physics with a minor in mathematics at Sharif University of Technology in 2023. During my undergrad, I interned at Summer@EPFL 2022. Also, I did some research varying from quantum information and statistical physics to combinatorial optimization and variational algorithms.
 
-To learn more about my qualifications and experience, please visit my [CV](/cv).
+My CV can be found [here](/cv).
