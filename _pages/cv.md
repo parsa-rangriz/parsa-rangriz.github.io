@@ -26,11 +26,11 @@ redirect_from:
   * _Supervisor: [Dr. Ahsan Nazir](https://research.manchester.ac.uk/en/persons/ahsan.nazir)_
 
 ## Honors and Awards
-* Awarded the **UWaterloo Graduate Research Studentship**, 2023
-* Awarded the **UWaterloo International Master's Award of Excellence**, 2023
-* Awarded the **Summer@EPFL** Fellowship, 2022
-* 5th Place in the **26th Iran Universities Physics Olympiad**, held by Sanjesh Organization, Iran, 2021
-* Silver Medal in the **30th Iran National Physics Olympiad**, held by Young Scholars’ Club, Iran, 2017
+* Awarded the **Graduate Research Studentship**, University of Waterloo, Canada, 2023
+* Awarded the **International Master's Award of Excellence**, University of Waterloo, Canada, 2023
+* Awarded the **Summer@EPFL** Fellowship, EPFL, Switzerland, 2022
+* 5th Place in the **26th Iran Universities Physics Olympiad**, Sanjesh Organization, Iran, 2021
+* Silver Medal in the **30th Iran National Physics Olympiad**, Young Scholars’ Club, Iran, 2017
 
 
 ## Work Experiences
