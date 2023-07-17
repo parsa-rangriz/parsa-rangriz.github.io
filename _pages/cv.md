@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 * **University of Waterloo**, MMath in Statistics, 2023-
-  * _Supervisor: [Prof. Aukosh Jagannath](https://www.math.uwaterloo.ca/~a3jagann/)_
+  * _Advisor: [Prof. Aukosh Jagannath](https://www.math.uwaterloo.ca/~a3jagann/)_
 * **Sharif University of Technology**, BS in Physics, 2018-2022
 * **Sharif University of Technology**, Minor BS in Mathematics, 2018-2022
 
@@ -26,6 +26,8 @@ redirect_from:
   * _Supervisor: [Dr. Ahsan Nazir](https://research.manchester.ac.uk/en/persons/ahsan.nazir)_
 
 ## Honors and Awards
+* Awarded the **UWaterloo Graduate Research Studentship**, 2023
+* Awarded the **UWaterloo International Master's Award of Excellence**, 2023
 * Awarded the **Summer@EPFL** Fellowship, 2022
 * 5th Place in the **26th Iran Universities Physics Olympiad**, held by Sanjesh Organization, Iran, 2021
 * Silver Medal in the **30th Iran National Physics Olympiad**, held by Young Scholars’ Club, Iran, 2017
