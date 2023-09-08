@@ -12,7 +12,7 @@ redirect_from:
 ## Education
 * **University of Waterloo**, MMath in Statistics, 2023-
   * _Advisor: [Prof. Aukosh Jagannath](https://www.math.uwaterloo.ca/~a3jagann/)_
-* **Sharif University of Technology**, BSc in Physics and Minor in Mathematics, 2018-2022
+* **Sharif University of Technology**, BSc in Physics & Minor in Mathematics, 2018-2022
 
 ## Research Experiences
 <!-- * **Sharif University of Technology**, Research Assistant, 2023
