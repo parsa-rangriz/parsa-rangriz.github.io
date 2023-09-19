@@ -33,12 +33,15 @@ redirect_from:
 
 
 ## Work Experiences
+* **University of Waterloo**, Teaching Assistant
+  * STAT 330 - Mathematical Statistics: Fall 2023
+  * STAT 202 - Introductory Statistics for Scientists: Fall 2023
 * **Sharif University of Technology**, Teaching Assistant
-  * Statistical Mechanics III: Prof. Shahin Rouhani, Fall 2022
-  * Statistical Mechanics III: Prof. Vahid Karimipour, Fall 2021
-  * Statistical Mechanics III: Prof. Ali Rezakhani, Spring 2021
-  * Statistical Mechanics II: Prof. Vahid Karimipour, Spring 2021
-  * Statistical Mechanics I: Prof. Vahid Karimipour, Fall 2020
+  * Statistical Mechanics III: Fall 2022
+  * Statistical Mechanics III: Fall 2021
+  * Statistical Mechanics III: Spring 2021
+  * Statistical Mechanics II: Spring 2021
+  * Statistical Mechanics I: Fall 2020
 
 ## Extracurricular Activities
 * **Sharif Physics Scientific Student Association**, Culture and Science Coordinator, 2019-2020
