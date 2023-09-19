@@ -55,18 +55,6 @@ Note: Using someone else's lab reports as your own is considered academic miscon
 | Magnetic Materials | [PDF](/files/SSP-5.pdf) | Hysteresis Curve | [PDF](/files/SSP-6.pdf) |
 | Ferromagnetism | [PDF](/files/SSP-7.pdf) | | |
 
-## Exams
-Note: Using previous exams as a study resource is generally acceptable, but it is important to follow your instructor's guidelines. Additionally, relying solely on previous exams can limit your understanding of the material and may not accurately reflect the current course content. It is recommended to use past exams as a supplement to your own learning and preparation.
-
-| Course | Instructor | Exams | Course | Instructor |  Exams |
-| -------- | --------- | -------- | -------- | --------- | --------- |
-| Solid State Physics 1 | Prof. Esfandiar | [Mid](/files/SSP_Mid.pdf), [Final](/files/SSP_Fin.pdf) | Quantum Information | Prof. Karimipour | [Mid](/files/QI_Mid.pdf), [Final](/files/QI_Fin.pdf) |
-| Information Theory, Statistics, and Learning | Prof. Yasaei | [Final](/files/ITSL_Fin.pdf) | Statistical Mechanics III | Prof. Karimipour | [Final](/files/SM3_Fin.pdf) |
-| Statistical Mechanics I | Prof. Karimipour | [Final](/files/SM1_Fin_K.pdf) | Statistical Mechanics II | Prof. Karimipour | [Mid](/files/SM2_Mid_K.pdf), [Final](/files/SM2_Fin_K.pdf) |
-| Electromagnetics II | Prof. Bahmanabadi | [Mid1](/files/EM2_Mid1.pdf), [Mid2](/files/EM2_Mid2.pdf), [Final](/files/EM2_Fin.pdf) | Solid State Physics Lab | Prof. Esfandiar | [Final](/files/SSPL_Fin.pdf) |
-| Advanced Statistics | Prof. Alishahi | [Final](/files/AdvStat_F.pdf) | Speical Relativity | Prof. Baghram | [Final](/files/SR_Fin.pdf) |
-
-
 
 ## Statistical Mechanics III
 During the spring semester of 2021, I had the opportunity to work as a teaching assistant for [Prof. Ali Rezakhani](http://sharif.edu/~rezakhani/Home.html)'s graduate course in statistical mechanics. I am excited to share the problem sets that I published during that time. They may be useful as a study resource for students interested in the subject. Please keep in mind that the course content and material may have been updated since then.
