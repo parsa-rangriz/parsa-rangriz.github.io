@@ -12,7 +12,7 @@ redirect_from:
 ## Education
 * **University of Waterloo**, Master of Mathematics in Statistics, 2023-
   * _Supervisor: [Prof. Aukosh Jagannath](https://www.math.uwaterloo.ca/~a3jagann/)_
-* **Sharif University of Technology**, Bachelor of Science in Physics & Minor in Mathematics, 2018-2022
+* **Sharif University of Technology**, Bachelor of Science in Physics, 2018-2022
 
 ## Research Experiences
 <!-- * **Sharif University of Technology**, Research Assistant, 2023
