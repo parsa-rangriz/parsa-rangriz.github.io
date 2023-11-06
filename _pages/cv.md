@@ -44,12 +44,8 @@ redirect_from:
   * Statistical Mechanics I: Fall 2020
 
 ## Extracurricular Activities
-* **Sharif Physics Scientific Student Association**, Culture and Science Coordinator, 2019-2020
+* **Sharif Physics Scientific Student Association**, Scientific Coordinator, 2019-2020
 * **Quanta - Sharif Physics Study Circles**, Head, 2019-2020
-
-## Participations
-* **ETH Zurich**, Visitor, Quantum Thermodynamics Summer School, 2021
-* **Universidade de São Paulo**, Visitor, Mini-Course in Quantum Thermodynamics, 2020
 
 ## Languages
 * English: Work Proficiency
