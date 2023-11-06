@@ -7,6 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a MMath student in statistics at the [University of Waterloo](https://uwaterloo.ca/), advised by [Prof. Aukosh Jagannath](https://www.math.uwaterloo.ca/~a3jagann/). My current research interests lie in probability theory, high-dimensional statistics, and statistical physics.
+I'm a MMath student in statistics at the [University of Waterloo](https://uwaterloo.ca/statistics-and-actuarial-science/), advised by [Prof. Aukosh Jagannath](https://www.math.uwaterloo.ca/~a3jagann/). My current research interests lie in probability theory, random matrices, and statistical physics of spin glasses.
 
 My CV (as of Oct 2023) can be found [here](/cv).
