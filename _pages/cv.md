@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* **University of Waterloo**, MMath in Statistics, 2023-
-  * _Advisor: [Prof. Aukosh Jagannath](https://www.math.uwaterloo.ca/~a3jagann/)_
-* **Sharif University of Technology**, BSc in Physics & Minor in Mathematics, 2018-2022
+* **University of Waterloo**, Master of Mathematics in Statistics, 2023-
+  * _Supervisor: [Prof. Aukosh Jagannath](https://www.math.uwaterloo.ca/~a3jagann/)_
+* **Sharif University of Technology**, Bachelor of Science in Physics & Minor in Mathematics, 2018-2022
 
 ## Research Experiences
 <!-- * **Sharif University of Technology**, Research Assistant, 2023
@@ -28,7 +28,6 @@ redirect_from:
 * Awarded the **Graduate Research Studentship**, University of Waterloo, Canada, 2023
 * Awarded the **International Master's Award of Excellence**, University of Waterloo, Canada, 2023
 * Awarded the **Summer@EPFL** Fellowship, EPFL, Switzerland, 2022
-* 5th Place in the **26th Iran Universities Physics Olympiad**, Sanjesh Organization, Iran, 2021
 * Silver Medal in the **30th Iran National Physics Olympiad**, Young Scholars’ Club, Iran, 2017
 
 
@@ -52,9 +51,7 @@ redirect_from:
 * **Universidade de São Paulo**, Visitor, Mini-Course in Quantum Thermodynamics, 2020
 
 ## Languages
-* Azeri Turkic: Native
+* English: Work Proficiency
+* Azerbaijani: Native
 * Persian: Native
-* English: Fluent
 * Turkish: Fluent
-* Arabic: Intermediate
-* Latin: Elementary
