@@ -12,8 +12,6 @@ main:
  # - title: "Portfolio"
  #   url: /portfolio/
         
- # - title: "Blog Posts"
- #   url: /year-archive/
  - title: "Home"
    url: /about/
  
@@ -22,6 +20,9 @@ main:
    
  - title: "4Sharif's"
    url: /sharif/
+
+ - title: "Posts"
+   url: /year-archive/
     
   #- title: "Guide"
   # url: /markdown/
