@@ -17,12 +17,12 @@ main:
  
  - title: "CV"
    url: /cv/
-   
- - title: "4Sharif's"
-   url: /sharif/
 
  - title: "Posts"
    url: /year-archive/
+   
+ - title: "4Sharif's"
+   url: /sharif/
     
   #- title: "Guide"
   # url: /markdown/
