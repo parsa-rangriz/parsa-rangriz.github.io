@@ -54,9 +54,7 @@ The joint distribution $\mu$ over $x \in \Omega^n$ factors on the factor graph $
 
 $$\hat f = (\hat f_a: a \in F) \text{ where } \hat f_a: \Omega^{|V(a)|} \to \mathbb R^+, \quad f = (f_i: i \in V)$ \text{ where } f_i: \Omega \to \mathbb R^+$$ 
 
-such that
-
-$$\mu(x) = \left( \prod_{a \in F} \hat f_a(x_{V(a)})\right) \left( \prod_{i \in V} f_i(x_i)\right)$$.
+such that $\mu(x) = \left( \prod_{a \in F} \hat f_a(x_{V(a)})\right) \left( \prod_{i \in V} f_i(x_i)\right)$.
 
 **Lemma 1:** Let $A \subseteq F$ whose induced subgraph is connected, and let $V(A) := \cup_{a \in A} V(a)$. Then the marginal $\mu_{V(A)}$ can be written as 
 
@@ -81,7 +79,7 @@ For any $(b, \hat b) \in \mathcal M$, the Bethe free energy $H_B: \mathcal M \to
 
 $$H_B(b, \hat b) := \sum_{a \in F} \hat b_a(x_{V(a)}) \log \frac{1}{\hat b_a(x_{V(a)})} - \sum_{i \in V} \left( |F(i)| - 1 \right) \sum_{x_i} b_i(x_i) \log \frac{1}{b_i(x_i)}$$
 
-which is similar to the free energy (Lemma 2) but with a different domain.
+which has the similar form with the free energy (Lemma 2) but in a different domain.
 
 
 
