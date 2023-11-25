@@ -37,7 +37,7 @@ However, one may write the Gibbs free energy in a form such that it is the summa
 
 $$G(\nu) = \sum_{x \in \Omega^n} \nu(x) \log \frac{1}{Z \mu(x)} - \sum_{x \in \Omega^n} \nu(x) \log \frac{1}{\nu(x)} = -\log Z + D(\nu \| \mu)$$
 
-Hence since $D(\nu \| \mu) \geq 0$ for any $\mu, \nu \in \mathcal P$, with equality iff $\mu = \nu$ then the minimum of the Gibbs free energy is the free energy, i.e., $$\min_{\nu \in \mathcal P} G(\nu) = -\log Z$$
+Hence since $D(\nu \| \mu) \geq 0$ for any $\mu, \nu \in \mathcal P$, with equality iff $\mu = \nu$ then the minimum of the Gibbs free energy is the Gibbs entropy, i.e., $$\min_{\nu \in \mathcal P} G(\nu) = -\log Z$$
 
 ## Factor Graph
 A factor graph is a bipartite graph $G = (V, F, E)$ such that $V$ (variable nodes) and $F$ (factor nodes) are two disjoint finite sets of vertices and $E \subseteq V \times F$ a set of edges. Also let,
@@ -52,7 +52,7 @@ $$F(i) := \{a \in F: (i, a) \in E\}, \quad \forall i \in V$$
 
 The joint distribution $\mu$ over $x \in \Omega^n$ factors on the factor graph $G$ if there exists a vector of functions 
 
-$$\hat f = (\hat f_a: a \in F) \text{ where } \hat f_a: \Omega^{|V(a)|} \to \mathbb R^+, \quad f = (f_i: i \in V)$ \text{ where } f_i: \Omega \to \mathbb R^+$$ 
+$$\hat f = (\hat f_a: a \in F) \text{ where } \hat f_a: \Omega^{|V(a)|} \to \mathbb R^+, \quad f = (f_i: i \in V) \text{ where } f_i: \Omega \to \mathbb R^+$$ 
 
 such that $\mu(x) = \left( \prod_{a \in F} \hat f_a(x_{V(a)})\right) \left( \prod_{i \in V} f_i(x_i)\right)$.
 
@@ -64,7 +64,7 @@ $$\mu_{V(A)} (x_{V(A)}) = \left( \prod_{a \in F} \frac{\mu_{V(a)}(x_{V(A)})}{\pr
  
  $$H(\mu) = \sum_{a \in F} H(\mu_{V(A)}) - \sum_{i \in V} |F(i) -1| H(\mu_i)$$
  
- and the free energy is given by
+ and the Gibbs entropy is given by
  
  $$-\log Z = -H(\mu) + \sum_{a \in A} \left( \sum_{x_{V(a)}} \mu_{V(a)}(x_{V(a)}) \log \frac{1}{\hat f_a(x_{V(a)}}\right) + \sum_{i \in V} \left( \sum_{x_i} \mu_i(x_i) \log \frac{1}{f_i(x_i)} \right)$$
 
@@ -75,14 +75,17 @@ $$\sum_{x_{V(a) \setminus i}} \hat b_a (x_{V(a)}) = b_i (x_i)$$
 
 for all $(i, a) \in E$ and $x_i \in \Omega$. Also, $\mathcal M = \{(b, \hat b)\}$ is called a marginal polytope.
 
-For any $(b, \hat b) \in \mathcal M$, the Bethe free energy $H_B: \mathcal M \to \mathbb R^+$ is defined to be
+For any $(b, \hat b) \in \mathcal M$, the Bethe entropy $H_B: \mathcal M \to \mathbb R^+$ is defined to be
 
 $$H_B(b, \hat b) := \sum_{a \in F} \hat b_a(x_{V(a)}) \log \frac{1}{\hat b_a(x_{V(a)})} - \sum_{i \in V} \left( |F(i)| - 1 \right) \sum_{x_i} b_i(x_i) \log \frac{1}{b_i(x_i)}$$
 
-which has the similar form with the free energy (Lemma 2) but in a different domain.
+which has the similar form with the Gibbs entropy (Lemma 2) but in a different domain.
 
+Moreover, the Bethe free energy is defined as
 
+$$F_B(b, \hat b) := \sum_{a \in F} \sum_{x_{V(a)}} \hat b_a(x_{V(a)}) \log \frac{1}{f_a(x_{V(a)})} + \sum_{i \in V} \sum_{x_i} b_i(x_i) \log \frac{1}{f_i(x_i)} - H_B(b, \hat b)$$
 
 ## BP Algorithm
 
 ## BP Fixed Point
+
