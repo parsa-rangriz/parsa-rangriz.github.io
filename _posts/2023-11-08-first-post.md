@@ -50,9 +50,9 @@ Similarly,
 
 $$F(i) := \{a \in F: (i, a) \in E\}, \quad \forall i \in V$$
 
-The joint distribution $\mu$ over $x \in $\Omega^n$ factors on the factor graph $G$ if there exists a vector of functions 
+The joint distribution $\mu$ over $x \in \Omega^n$ factors on the factor graph $G$ if there exists a vector of functions 
 
-$$\hat f = (\hat f_a: a \in F) \text{ where } \hat f_a: \Omega^{|V(a)|} \to \mathbb R^+, \quad f = (f_i: i \in V)$ \text{ where } $f_i: \Omega \to \mathbb R^+$$ 
+$$\hat f = (\hat f_a: a \in F) \text{ where } \hat f_a: \Omega^{|V(a)|} \to \mathbb R^+, \quad f = (f_i: i \in V)$ \text{ where } f_i: \Omega \to \mathbb R^+$$ 
 
 such that
 
