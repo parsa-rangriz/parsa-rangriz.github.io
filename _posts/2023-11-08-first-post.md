@@ -40,8 +40,44 @@ $$G(\nu) = \sum_{x \in \Omega^n} \nu(x) \log \frac{1}{Z \mu(x)} - \sum_{x \in \O
 Hence since $D(\nu \| \mu) \geq 0$ for any $\mu, \nu \in \mathcal P$, with equality iff $\mu = \nu$ then the minimum of the Gibbs free energy is the free energy, i.e., $$\min_{\nu \in \mathcal P} G(\nu) = -\log Z$$
 
 ## Factor Graph
+A factor graph is a bipartite graph $G = (V, F, E)$ such that $V$ (variable nodes) and $F$ (factor nodes) are two disjoint finite sets of vertices and $E \subseteq V \times F$ a set of edges. Also let,
+
+$$V(a) := \{i \in V: (i, a) \in E\}, \quad \forall a \in F$$
+
+be the variable nodes adjacent to factor node $a$.
+
+Similarly,
+
+$$F(i) := \{a \in F: (i, a) \in E\}, \quad \forall i \in V$$
+
+The joint distribution $\mu$ over $x \in $\Omega^n$ factors on the factor graph $G$ if there exists a vector of functions $\hat f = (\hat f_a: a \in F)$ where $\hat f_a: \Omega^{|V(a)|} \to \mathbb R^+$ and $f = (f_i: i \in V)$ where $f_i: \Omega \to \mathbb R^+$ such that
+
+$$\mu(x) = \left( \prod_{a \in F} \hat f_a(x_{V(a)})\right) \left( \prod_{i \in V} f_i(x_i)\right)$$.
+
+**Lemma 1:** Let $A \subseteq F$ whose induced subgraph is connected, and let $V(A) := \cup_{a \in A} V(a)$. Then the marginal $\mu_{V(A)}$ can be written as 
+
+$$\mu_{V(A)} (x_{V(A)}) = \left( \prod_{a \in F} \frac{\mu_{V(a)}(x_{V(A)})}{\prod_{i \in V(a)} \mu_i(x_i)}\right) \left( \prod_{i \in V(a)} \mu_i (x_i) \right)$$
+
+ **Lemma 2:** The entropy of $\mu$ of the factor graph denoted
+ 
+ $$H(\mu) = \sum_{a \in F} H(\mu_{V(A)}) - \sum_{i \in V} |F(i) -1| H(\mu_i)$$
+ 
+ and the free energy is given by
+ 
+ $$-\log Z = -H(\mu) + \sum_{a \in A} \left( \sum_{x_{V(a)}} \mu_{V(a)}(x_{V(a)}) \log \frac{1}{\hat f_a(x_{V(a)}})\right) + \sum_{i \in V} \left( \sum_{x_i} \mu_i(x_i) \log \frac{1}{f_i(x_i)} \right)$$
 
 ## Bethe Free Energy
+Consider a set of variable node beliefs $b := \{b_i : \Omega \to [0, 1], \quad i \in V\}$ and factor node beliefs $\hat b = \{\hat{b}_a: \Omega^{|V(a)|} \to [0, 1], a \in F\}$ satisfying the marginal consistency contraint,
+
+$$\sum_{x_{V(a) \setminus i}} \hat b_a (x_{V(a)}) = b_i (x_i)$$
+
+for all $(i, a) \in E$ and $x_i \in \Omega$. Also, $\mathcal M = \{(b, \hat b)\}$ is called a marginal polytope.
+
+For any $(b, \hat b) \in \mathcal M$, T\the Bethe free energy $H_B: \mathcal M \to \mathbb R^+$ is defined to be
+
+$$H_B(b, \hat b) := \sum_{a \in F} \hat b_a(x_{V(a)}) \log \frac{1}{\hat b_a(x_{V(a)})} - \sum_{i \in V} \left( |F(i)| - 1 \right) \sum_{x_i} b_i(x_i) \log \frac{1}{b_i(x_i)}$$
+
+which is similar to the free energy .
 
 ## BP Algorithm
 
