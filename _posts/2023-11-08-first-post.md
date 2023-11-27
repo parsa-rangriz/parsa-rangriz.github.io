@@ -112,5 +112,9 @@ $$\hat \tau_{a \to i}(x_{V(a)}) := \frac{1}{\hat Z_{a \to i}} \frac{1}{f_i(x_i)}
 
 where $Z_{i \to a} = \sum_{x_i} \tau_{i \to a}(x_i)$ and $\hat Z_{a \to i} = \sum_{x_i} \hat \tau_{a \to i}(x_i)$ for all $(i, a) \in E$.
 
+Hence, 
+
+$$\tau_i^*(x_i) = \overbrace{\exp \left( \frac{\lambda_i}{d_i - 1} - 1 \right)}^{=: A} \exp\left(-\sum_{a \in F(i)} \rho_{i, a}(x_i) + \log f_i(x_i) \right)^{\frac{1}{d_i - 1}}$$
+
 ## BP Fixed Point
 
