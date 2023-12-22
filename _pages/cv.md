@@ -11,12 +11,11 @@ redirect_from:
 
 ## Education
 * **University of Waterloo**, MMath in Statistics, 2023-2025 (Expected)
-  * _Supervisor: [Aukosh Jagannath](https://www.math.uwaterloo.ca/~a3jagann/)_
 * **Sharif University of Technology**, BSc in Physics & Minor in Mathematics, 2018-2023
 
 ## Research Experiences
-<!-- * **Sharif University of Technology**, Research Assistant, 2023
-  * _Supervisors: [Prof. Saman Moghimi](http://physics.sharif.ir/~phyweb/saman-moghimi-araghi/) & [Prof. Abolfazl Ramezanpour](https://sites.google.com/site/abolfazlramezanpour/home) (Shiraz University)_ -->
+* **University of Waterloo**, Graduate Research Student, 2023-Present
+  * _Supervisor: [Aukosh Jagannath](https://www.math.uwaterloo.ca/~a3jagann/)_
 * **EPFL**, Research Intern, 2022
   * _Supervisor: [Lenka Zdeborová](https://people.epfl.ch/lenka.zdeborova/?lang=en)_
 * **Sharif University of Technology**, Research Assistant, 2022
