@@ -18,7 +18,7 @@ redirect_from:
   * _Supervisor: [Aukosh Jagannath](https://www.math.uwaterloo.ca/~a3jagann/)_
 * **EPFL**, Research Intern, 2022
   * _Supervisor: [Lenka Zdeborová](https://people.epfl.ch/lenka.zdeborova/?lang=en)_
-* **Sharif University of Technology**, Research Assistant, 2022
+* **Sharif University of Technology**, Undergraduate Research Student, 2022
   * _Supervisor: [Amir Daneshgar](http://math.sharif.ir/faculties/daneshgar)_
 * **University of Manchester**, Remote Research Intern, 2021
   * _Supervisor: [Ahsan Nazir](https://research.manchester.ac.uk/en/persons/ahsan.nazir)_
