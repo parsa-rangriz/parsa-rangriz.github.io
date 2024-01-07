@@ -33,10 +33,10 @@ redirect_from:
 
 ## Work Experiences
 * **University of Waterloo**, Teaching Assistant
-  * STAT 333 - Stochastic Processes 1: Winter 2023
-  * STAT 230 - Probability: Winter 2023
-  * STAT 330 - Mathematical Statistics: Fall 2023
-  * STAT 202 - Intro. Statistics for Scientists: Fall 2023
+  * Stochastic Processes 1: Winter 2023
+  * Probability: Winter 2023
+  * Mathematical Statistics: Fall 2023
+  * Intro. Statistics for Scientists: Fall 2023
 * **Sharif University of Technology**, Teaching Assistant
   * Statistical Mechanics III: Fall 2022
   * Statistical Mechanics III: Fall 2021
