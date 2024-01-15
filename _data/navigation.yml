@@ -18,8 +18,8 @@ main:
  - title: "CV"
    url: /cv/
 
- - title: "Posts"
-   url: /year-archive/
+ # - title: "Posts"
+ #   url: /year-archive/
    
  - title: "4Sharif's"
    url: /sharif/
