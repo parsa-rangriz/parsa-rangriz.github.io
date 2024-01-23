@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* **University of Waterloo**, MMath in Statistics, 2023-2025 (Expected)
+* **University of Waterloo**, MMath in Statistics, 2023-2024 (Expected)
 * **Sharif University of Technology**, BSc in Physics & Minor in Mathematics, 2018-2023
 
 ## Research Experiences
