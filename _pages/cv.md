@@ -10,17 +10,17 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* MMath in Statistics, University of Waterloo, Canada, 2023-2024 (Expected)
-* BSc in Physics & Minor in Mathematics, Sharif University of Technology, Iran, 2018-2023
+* MMath in Statistics, **University of Waterloo**, Canada, 2023-2024 (Expected)
+* BSc in Physics & Minor in Mathematics, **Sharif University of Technology**, Iran, 2018-2023
 
 ## Research Experiences
-* **University of Waterloo**, Graduate Research Student, 2023-Present
+* Graduate Research Student, **University of Waterloo**, 2023-Present
   * _Supervisor: [Aukosh Jagannath](https://www.math.uwaterloo.ca/~a3jagann/)_
-* **EPFL**, Research Intern, 2022
+* Research Intern, **EPFL**, 2022
   * _Supervisor: [Lenka Zdeborová](https://people.epfl.ch/lenka.zdeborova/?lang=en)_
-* **Sharif University of Technology**, Undergraduate Research Student, 2022
+* Undergraduate Research Student, **Sharif University of Technology**, 2022
   * _Supervisor: [Amir Daneshgar](http://math.sharif.ir/faculties/daneshgar)_
-* **University of Manchester**, Remote Research Intern, 2021
+* Remote Research Intern, **University of Manchester**, 2021
   * _Supervisor: [Ahsan Nazir](https://research.manchester.ac.uk/en/persons/ahsan.nazir)_
 
 ## Honors and Awards
@@ -32,12 +32,12 @@ redirect_from:
 
 
 ## Work Experiences
-* **University of Waterloo**, Teaching Assistant
+* Teaching Assistant, **University of Waterloo**,
   * Stochastic Processes 1: Winter 2023
   * Probability: Winter 2023
   * Mathematical Statistics: Fall 2023
   * Intro. Statistics for Scientists: Fall 2023
-* **Sharif University of Technology**, Teaching Assistant
+* Teaching Assistant, **Sharif University of Technology**,
   * Statistical Mechanics III: Fall 2022
   * Statistical Mechanics III: Fall 2021
   * Statistical Mechanics III: Spring 2021
@@ -45,8 +45,8 @@ redirect_from:
   * Statistical Mechanics I: Fall 2020
 
 ## Extracurricular Activities
-* **Sharif Physics Scientific Student Association**, Scientific Coordinator, 2019-2020
-* **Quanta - Sharif Physics Study Circles**, Head, 2019-2020
+* Scientific Coordinator, **Sharif Physics Scientific Student Association**, 2019-2020
+* Head, **Quanta - Sharif Physics Study Circles**, 2019-2020
 
 ## Languages
 English, Azerbaijani (Native), Persian (Native), Turkish
