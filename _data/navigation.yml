@@ -15,9 +15,11 @@ main:
  - title: "Home"
    url: /about/
  
- - title: "CV"
+ - title: "Curriculum Vitae"
    url: /cv/
 
+ - title: "Teaching"
+   url: /teaching
  # - title: "Posts"
  #   url: /year-archive/
    
