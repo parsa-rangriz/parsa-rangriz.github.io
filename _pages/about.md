@@ -7,4 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! This is Parsa Rangriz. I'm an MMath student in statistics at the University of Waterloo, supervised by [Aukosh Jagannath](https://www.math.uwaterloo.ca/~a3jagann/). My current research interests lie in probability theory, random matrix theory, stochastic processes, and statistical physics. My resume (as of Jan 2024) can be found [here](/cv). 
+Hello! I'm Parsa Rangriz, currently pursuing a Master in Mathematics with a specialization in Statistics at the University of Waterloo in the Department of Statistics and Actuarial Science under the supervision of [Aukosh Jagannath](https://aukosh.github.io/). My current research interests lie in probability theory, random matrices, stochastic processes, and statistical physics. My resume (as of Jan 2024) can be found [here](/cv). 
