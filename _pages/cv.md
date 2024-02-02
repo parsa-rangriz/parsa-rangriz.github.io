@@ -49,4 +49,4 @@ redirect_from:
 * Head, **Quanta - Sharif Physics Study Circles**, 2019-2020
 
 ## Languages
-English, Turkish, Persian (Native), Azerbaijani (Native),
+English, Turkish, Persian (Native), Azerbaijani (Native)
