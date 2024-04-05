@@ -32,9 +32,9 @@ redirect_from:
 
 
 ## Work Experiences
-* Teaching Assistant, **University of Waterloo**,
-  * Stochastic Processes 1: Winter 2023
-  * Probability: Winter 2023
+* Teaching Assistant (Level III), **University of Waterloo**,
+  * Stochastic Processes 1: Winter 2024
+  * Probability: Winter 2024
   * Mathematical Statistics: Fall 2023
   * Intro. Statistics for Scientists: Fall 2023
 * Teaching Assistant, **Sharif University of Technology**,
@@ -43,6 +43,19 @@ redirect_from:
   * Statistical Mechanics III: Spring 2021
   * Statistical Mechanics II: Spring 2021
   * Statistical Mechanics I: Fall 2020
+
+## Summer Schools & Workshops
+* Training Certificate Program, **University of Waterloo**,
+  * Level III - Facilitation: Winter 2024
+    * CTE 1106: Giving and Receiving Feedback
+    * CTE 1111: Teaching STEM Tutorials
+    * SAS Practicum (STAT 333 - Stochastic Processes)
+  * Level II - Interactions: Fall 2023
+    * SAS TA Training: Level 2
+    * CTE 1203: Building Rapport with Students
+  * Level I - Fundamentals: Fall 2023
+    * CTE 1210: Preparing to TA at Waterloo
+    * SAS TA Training Workshop: Level 1
 
 ## Extracurricular Activities
 * Scientific Coordinator, **Sharif Physics Scientific Student Association**, 2019-2020
