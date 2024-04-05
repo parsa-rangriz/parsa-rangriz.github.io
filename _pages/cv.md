@@ -38,22 +38,22 @@ redirect_from:
   * Mathematical Statistics: Fall 2023
   * Intro. Statistics for Scientists: Fall 2023
 * Teaching Assistant, **Sharif University of Technology**,
-  * Statistical Mechanics III: Fall 2022
-  * Statistical Mechanics III: Fall 2021
-  * Statistical Mechanics III: Spring 2021
-  * Statistical Mechanics II: Spring 2021
-  * Statistical Mechanics I: Fall 2020
+  * Statistical Mechanics 3: Fall 2022
+  * Statistical Mechanics 3: Fall 2021
+  * Statistical Mechanics 3: Spring 2021
+  * Statistical Mechanics 2: Spring 2021
+  * Statistical Mechanics 1: Fall 2020
 
 ## Summer Schools & Workshops
 * Training Certificate Program, **University of Waterloo**,
-  * Level III - Facilitation: Winter 2024
+  * Level 3 - Facilitation: Winter 2024
     * CTE 1106: Giving and Receiving Feedback
     * CTE 1111: Teaching STEM Tutorials
     * SAS Practicum (STAT 333 - Stochastic Processes)
-  * Level II - Interactions: Fall 2023
+  * Level 2 - Interactions: Fall 2023
     * SAS TA Training: Level 2
     * CTE 1203: Building Rapport with Students
-  * Level I - Fundamentals: Fall 2023
+  * Level 1 - Fundamentals: Fall 2023
     * CTE 1210: Preparing to TA at Waterloo
     * SAS TA Training Workshop: Level 1
 
@@ -63,3 +63,4 @@ redirect_from:
 
 ## Languages
 English, Turkish, Persian (Native), Azerbaijani (Native)
+
