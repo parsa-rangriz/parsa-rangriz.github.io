@@ -45,7 +45,7 @@ redirect_from:
   * Statistical Mechanics 1: Fall 2020
 
 ## Summer Schools & Workshops
-* Training Certificate Program, **University of Waterloo**,
+* TA Training Program, **University of Waterloo**,
   * Level 3 - Facilitation: Winter 2024
     * CTE 1106: Giving and Receiving Feedback
     * CTE 1111: Teaching STEM Tutorials
