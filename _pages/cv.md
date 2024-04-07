@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
 
 ## Education
@@ -66,3 +65,4 @@ redirect_from:
 ## Languages
 English, Turkish, Persian (Native), Azerbaijani (Native)
 
+_Last Update: April 6, 2024_
