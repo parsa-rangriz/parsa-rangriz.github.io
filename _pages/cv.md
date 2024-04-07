@@ -56,6 +56,12 @@ redirect_from:
   * Level 1 - Fundamentals: Fall 2023
     * CTE 1210: Preparing to TA at Waterloo
     * SAS TA Training Workshop: Level 1
+* [Summer@EPFL 2022](https://summer.epfl.ch/), **EPFL**,
+  * June-September 2022, Lausanne, Switzerland
+* [Quantum Thermodynamics Summer School 2021](https://qthermo.ethz.ch/), **ETH Zürich**,
+  * August 2021, Les Diablerets, Switzerland
+* [Mini-Course in Quantum Thermodynamics 2020](https://tinyurl.com/y6nvanbw), **University of São Paulo**,
+  * November-December 2020, Online via ZOOM
 
 ## Extracurricular Activities
 * Scientific Coordinator, **Sharif Physics Scientific Student Association**, 2019-2020
