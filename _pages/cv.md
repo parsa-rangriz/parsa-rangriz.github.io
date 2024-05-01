@@ -32,6 +32,8 @@ redirect_from:
 
 ## Work Experiences
 * Teaching Assistant (Level 3), **University of Waterloo**,
+  * Mathematical Statistics: Spring 2024
+  * Statistics: Spring 2024
   * Stochastic Processes 1: Winter 2024
   * Probability: Winter 2024
   * Mathematical Statistics: Fall 2023
