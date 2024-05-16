@@ -23,6 +23,9 @@ main:
    
  - title: "Sharif Notes"
    url: /sharif/
+
+ - title: "Edu Resources"
+   url: /about/
     
   #- title: "Guide"
   # url: /markdown/
