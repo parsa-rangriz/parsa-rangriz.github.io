@@ -7,7 +7,7 @@ redirect_from:
 Welcome to IRAN Education Resources! This page is all about helping out my friends in Iran, especially physics undergrad students.
 
 ## Administrative Processes and Educational Services
-Here I try to explain the administrative processes and educational services, which are sometimes very complicated and unusual, in a simple language through the experiences that have existed before. If there have been any changes in any of the described processes and the working method has changed, you can inform me. By the way, some of the essential documents can be found on [Sharif's website](https://ac.sharif.edu/docs/).
+Here I try to explain the administrative processes and educational services, which are sometimes very complicated and unusual, in a simple language through the experiences that have existed before. If there have been any changes in any of the described processes and the working method has changed, you can inform me. 
 
   * [Guide to Graduation for SUT Students](/files/Guide_to_Graduation.pdf)
   * [Exit Permit for International Students](/files/Exit_Permit_for_International_Students.pdf)
