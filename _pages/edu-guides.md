@@ -1,5 +1,5 @@
 ---
-permalink: /Edu Resources/
+permalink: /edu/
 title: "Education Service Resources"
 author_profile: true
 redirect_from: 
