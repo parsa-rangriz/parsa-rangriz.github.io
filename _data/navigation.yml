@@ -21,10 +21,7 @@ main:
  # - title: "Posts"
  #   url: /year-archive/
    
- - title: "Sharif Notes"
-   url: /sharif/
-
- - title: "Edu Resources"
+ - title: "IRN Edu Resources"
    url: /edu/
     
   #- title: "Guide"
