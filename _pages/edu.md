@@ -1,6 +1,6 @@
 ---
 permalink: /edu/
-title: "IRN Education Resources"
+title: "Education Resources"
 author_profile: true
 redirect_from: 
 ---
