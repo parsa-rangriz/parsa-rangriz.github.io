@@ -23,9 +23,10 @@ redirect_from:
   * _Supervisor: [Ahsan Nazir](https://research.manchester.ac.uk/en/persons/ahsan.nazir)_
 
 ## Honors and Awards
-* The **Graduate Research Studentship**, University of Waterloo, Canada, 2023
+* The **Graduate Research Studentship**, University of Waterloo, Canada, 2023-Present
+* The **International Master's Award of Excellence**, University of Waterloo, Canada, 2023-Present
+* The **CRM-PIMS Summer School in Probability Award**, University of Montreal, Canada, 2024
 * The **Master of Mathematics Entrance Scholarship**, University of Waterloo, Canada, 2023
-* The **International Master's Award of Excellence**, University of Waterloo, Canada, 2023
 * The **Summer@EPFL** Fellowship, EPFL, Switzerland, 2022
 * **Silver Medal** in the **30th Iran National Physics Olympiad**, Iran, 2017
 
@@ -46,6 +47,8 @@ redirect_from:
   * Statistical Mechanics 1: Fall 2020
 
 ## Summer Schools & Workshops
+* [The 2024 CRM-PIMS Summer School in Probability](https://secure.math.ubc.ca/Links/ssprob24/index.php), **Universisty of Montreal**
+  * July 2024, Montreal, QC, Canada
 * TA Training Program, **University of Waterloo**,
   * Level 3 - Facilitation: Winter 2024
     * CTE 1106, CTE 1111, SAS Practicum
