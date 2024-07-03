@@ -47,15 +47,8 @@ redirect_from:
   * Statistical Mechanics 1: Fall 2020
 
 ## Summer Schools & Workshops
-* [The 2024 CRM-PIMS Summer School in Probability](https://secure.math.ubc.ca/Links/ssprob24/index.php), **Universisty of Montreal**
+* [The 2024 CRM-PIMS Summer School in Probability](https://secure.math.ubc.ca/Links/ssprob24/index.php), **University of Montreal**
   * July 2024, Montreal, QC, Canada
-* TA Training Program, **University of Waterloo**,
-  * Level 3 - Facilitation: Winter 2024
-    * CTE 1106, CTE 1111, SAS Practicum
-  * Level 2 - Interactions: Fall 2023
-    * SAS TA Training (Level 2), CTE 1203
-  * Level 1 - Fundamentals: Fall 2023
-    * SAS TA Training (Level 1), CTE 1210
 * [Summer@EPFL 2022](https://summer.epfl.ch/), **EPFL**,
   * June-September 2022, Lausanne, Switzerland
 * [Quantum Thermodynamics Summer School 2021](https://qthermo.ethz.ch/), **ETH Zürich**,
