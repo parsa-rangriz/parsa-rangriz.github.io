@@ -47,7 +47,7 @@ redirect_from:
   * Statistical Mechanics 1: Fall 2020
 
 ## Summer Schools & Workshops
-* [The 2024 CRM-PIMS Summer School in Probability](https://secure.math.ubc.ca/Links/ssprob24/index.php), **University of Montreal**
+* [CRM-PIMS Summer School in Probability 2024](https://secure.math.ubc.ca/Links/ssprob24/index.php), **University of Montreal**
   * July 2024, Montreal, QC, Canada
 * [Summer@EPFL 2022](https://summer.epfl.ch/), **EPFL**,
   * June-September 2022, Lausanne, Switzerland
