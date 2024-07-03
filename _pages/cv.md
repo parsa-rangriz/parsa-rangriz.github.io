@@ -33,17 +33,13 @@ redirect_from:
 
 ## Work Experiences
 * Teaching Assistant (Level 3), **University of Waterloo**,
-  * Mathematical Statistics: Spring 2024
-  * Statistics: Spring 2024
-  * Stochastic Processes 1: Winter 2024
-  * Probability: Winter 2024
-  * Mathematical Statistics: Fall 2023
-  * Intro. Statistics for Scientists: Fall 2023
+  * Mathematical Statistics, Statistics: Spring 2024
+  * Stochastic Processes 1, Probability: Winter 2024
+  * Mathematical Statistics, Intro. Statistics for Scientists: Fall 2023
 * Teaching Assistant, **Sharif University of Technology**,
   * Statistical Mechanics 3: Fall 2022
   * Statistical Mechanics 3: Fall 2021
-  * Statistical Mechanics 3: Spring 2021
-  * Statistical Mechanics 2: Spring 2021
+  * Statistical Mechanics 3, Statistical Mechanics 2: Spring 2021
   * Statistical Mechanics 1: Fall 2020
 
 ## Summer Schools & Workshops
@@ -63,4 +59,4 @@ redirect_from:
 ## Languages
 English, Turkish, Persian (Native), Azerbaijani (Native)
 
-_Last Update: May 1, 2024_
+_Last Update: July 2, 2024_
