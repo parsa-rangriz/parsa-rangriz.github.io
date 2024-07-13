@@ -18,7 +18,7 @@ redirect_from:
 ### Teaching Assistant - Sharif University of Technology 
   * Thermodynamics and Statistical Mechanics 3 (Fall 2022)
   * Thermodynamics and Statistical Mechanics 3 (Fall 2021)
-  * <details open>
+  * <details close>
     <summary>Thermodynamics and Statistical Mechanics 3 (Fall 2021)</summary>                                                    
         <ul>
         <p></p>
