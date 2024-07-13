@@ -9,7 +9,7 @@ redirect_from:
 ---
 Department of Statistics and Actuarial Science\
 University of Waterloo\
-Mathematics 3\
+Mathematics 3 (M3)\
 200 University Ave W\
 Waterloo, ON\
 Canada, N2L 3G1\
