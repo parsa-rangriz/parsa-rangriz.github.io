@@ -18,8 +18,8 @@ main:
  - title: "Curriculum Vitae"
    url: /cv/
 
- # - title: "Posts"
- #   url: /year-archive/
+ - title: "Teaching"
+   url: /teaching/
    
  - title: "Edu Resources"
    url: /edu/
