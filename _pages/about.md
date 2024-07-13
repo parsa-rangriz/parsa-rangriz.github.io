@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "About Me"
+title: "Parsa Rangriz"
 excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-**Parsa Rangriz**
-
 Department of Statistics and Actuarial Science\
 University of Waterloo\
 200 University Ave W\
