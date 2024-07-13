@@ -30,18 +30,6 @@ redirect_from:
 * The **Summer@EPFL** Fellowship, EPFL, Switzerland, 2022
 * **Silver Medal** in the **30th Iran National Physics Olympiad**, Iran, 2017
 
-
-## Work Experiences
-* Teaching Assistant (Level 3), **University of Waterloo**,
-  * Mathematical Statistics, Statistics: Spring 2024
-  * Stochastic Processes 1, Probability: Winter 2024
-  * Mathematical Statistics, Intro. Statistics for Scientists: Fall 2023
-* Teaching Assistant, **Sharif University of Technology**,
-  * Statistical Mechanics 3: Fall 2022
-  * Statistical Mechanics 3: Fall 2021
-  * Statistical Mechanics 3, Statistical Mechanics 2: Spring 2021
-  * Statistical Mechanics 1: Fall 2020
-
 ## Summer Schools & Workshops
 * [CRM-PIMS Summer School in Probability 2024](https://secure.math.ubc.ca/Links/ssprob24/index.php), **University of Montreal**
   * July 2024, Montreal, QC, Canada
