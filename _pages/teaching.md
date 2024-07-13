@@ -15,6 +15,7 @@ redirect_from:
   * STAT 230: Statistics (Spring 2024)
   * STAT 330: Mathematical Statistics (Fall 2023)
   * STAT 202: Introductory Statistics for Scientists (Fall 2023)
+
 ### Teaching Assistant - Sharif University of Technology 
   * Thermodynamics and Statistical Mechanics 3 (Fall 2022)
   * Thermodynamics and Statistical Mechanics 3 (Fall 2021)
