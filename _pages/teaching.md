@@ -21,9 +21,8 @@ redirect_from:
 #### Teaching Assistant
   * Thermodynamics and Statistical Mechanics 3 (Fall 2022)
   * Thermodynamics and Statistical Mechanics 3 (Fall 2021)
-  * Thermodynamics and Statistical Mehcanics 3 (Spring 2021) <a class="toggle" onclick="showToggle(this,'MAT136_2019S')">[SHOW]</a>
-  <ul id="MAT136_2019S" style="display:none;">
-                       
+  * <details><summary>Thermodynamics and Statistical Mehcanics 3 (Spring 2021)</summary>
+  
 | Problem Set No. |  File |   Topics |
 | -----------   | -------   | ----------   |  
 | Set 1   | [PDF](/files/SM3-1.pdf)   | Classical Thermodynamics: Entropy of Mixing, Photon Gas Carnot Cycle, Maximum Entropy Principle; Ensemble Theory: Classical Harmonic Oscillator, Quantum Harmonic Oscillator, Curie Susceptibility, Equipartition, Helmholtz Extensiveness. |
@@ -31,7 +30,7 @@ redirect_from:
 | Set 3  | [PDF](/files/SM3-3.pdf)   | Stochastic Processes: Rabbit Evolution, Knight’s Tour, Colored Balls, Transition Matrix, Random Walk, Birth and Death Processes, LGKS Equation |
 | Set 4  | [PDF](/files/SM3-4.pdf)   | Stochastic Processes: Fokker-Planck Equation, Random Walk and Diffusion Equation, Kramers-Moyal Equation, Backward Kramers-Moyal Equation, Pawula Theorem; Kinetic Theory: One-Dimensional Gas, Evolution of Entropy, Vlasov Equation, Two-Component Plasma |
 | Set 5  | [PDF](/files/SM3-5.pdf)   | Stochastic Processes: Generalized Langevin Equation; The Partition Function: Boltzmann Distribution, Ideal Bose Gas, The Lee-Yang Theorem in Electrostatics, Grand Partition Function |
- </ul><br>
+</details>
  
   * Thermodynamics and Statistical Mechanics 2 (Spring 2021)
   * Thermodynamics and Statistical Mehcanics 1 (Fall 2020)
