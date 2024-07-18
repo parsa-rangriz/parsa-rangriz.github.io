@@ -20,7 +20,7 @@ redirect_from:
   * Thermodynamics and Statistical Mechanics 3 (Fall 2022)
   * Thermodynamics and Statistical Mechanics 3 (Fall 2021)
   * Thermodynamics and Statistical Mechanics 3 (Fall 2021)
-  * Thermodynamics and Statistical Mechanics 2 (Spring 2021)
+  * [Thermodynamics and Statistical Mechanics 2 (Spring 2021)](/statmech3/)
   * Thermodynamics and Statistical Mehcanics 1 (Fall 2020)
   * General Physics 3 (Fall 2019)
   * Fundamentals of C Programming (Spring 2019)
