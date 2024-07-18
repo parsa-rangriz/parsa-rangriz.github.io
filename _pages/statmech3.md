@@ -1,5 +1,5 @@
 ---
-permalink: /statmech3/
+permalink: /teaching/statmech3/
 title: "Thermodynamics and Statistical Mechanics 3"
 author_profile: true
 redirect_from: 
