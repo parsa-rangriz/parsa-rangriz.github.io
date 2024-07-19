@@ -1,10 +1,10 @@
 ---
-permalink: /edu/
-title: "Education Resources"
+permalink: /sharif/
+title: "شریف"
 author_profile: true
 redirect_from: 
 ---
-Welcome to the Education Resources! This page is all about helping out my friends in Iran, especially physics undergrad students.
+This page is all about helping out my friends in Iran, especially physics undergrad students.
 
 ## Administrative Processes and Educational Services
 Here I try to explain the administrative processes and educational services, which are sometimes very complicated and unusual, in a simple language through the experiences that have existed before. If there have been any changes in any of the described processes and the working method has changed, you can inform me. 
@@ -16,9 +16,9 @@ Here I try to explain the administrative processes and educational services, whi
   * [Exit Permit for Domestic Students - Internship](https://docs.google.com/document/d/1CfXVzdVDFHhR4SGVYqlKr5qPpEX_6F9NdPn_ucHK4Zo/edit?usp=sharing)
     
 ## Laboratory Reports
-Note: Using someone else's lab reports as your own is considered academic misconduct and can result in serious consequences. It is recommended to always complete your own work and properly cite any sources used.
+_Note: Using someone else's lab reports as your own is considered academic misconduct and can result in serious consequences. It is recommended to always complete your own work and properly cite any sources used._
 
-### Physics III Lab ('21)
+### Physics 3 Lab ('21)
 
 | Experiment       | Report   | Experiment       | Report   | 
 | -----------   | -------   | ----------   | -------   | 
@@ -27,7 +27,7 @@ Note: Using someone else's lab reports as your own is considered academic miscon
 | Speed of Light  | [PDF](/files/GL3-5.pdf)| Siphon  | [PDF](/files/GL3-6.pdf)| 
 | Quincke Tube  | [PDF](/files/GL3-7.pdf)| | |
 
-### Physics IV Lab ('20)
+### Physics 4 Lab ('20)
 
 | Experiment       | Report   | Experiment       | Report   | 
 | -----------   | -------   | ----------   | -------   | 
