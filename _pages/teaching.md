@@ -17,10 +17,10 @@ redirect_from:
   * STAT 202: Introductory Statistics for Scientists (Fall 2023)
 
 ### Teaching Assistant - Sharif University of Technology 
-  * Thermodynamics and Statistical Mechanics 3 (Fall 2022)
-  * Thermodynamics and Statistical Mechanics 3 (Fall 2021)
-  * Thermodynamics and Statistical Mechanics 3 (Fall 2021)
-  * [Thermodynamics and Statistical Mechanics 2 (Spring 2021)](/teaching/statmech3/)
-  * Thermodynamics and Statistical Mehcanics 1 (Fall 2020)
-  * General Physics 3 (Fall 2019)
+  * PHY 24156: Thermodynamics and Statistical Mechanics 3 (Fall 2022)
+  * PHY 24156: Thermodynamics and Statistical Mechanics 3 (Fall 2021)
+  * PHY 24156: Thermodynamics and Statistical Mechanics 3 (Spring 2021) -> [Problem Sets](/teaching/statmech3/)
+  * PHY 24155: Thermodynamics and Statistical Mechanics 2 (Spring 2021)
+  * PHY 24154: Thermodynamics and Statistical Mehcanics 1 (Fall 2020)
+  * PHY 24013: Physics 3 (Fall 2019)
   * Fundamentals of C Programming (Spring 2019)
