@@ -21,8 +21,6 @@ main:
  - title: "Teaching"
    url: /teaching/
    
- - title: "Edu Resources"
-   url: /edu/
-    
-  #- title: "Guide"
-  # url: /markdown/
+ - title: "شریف"
+   url: /sharif/
+
