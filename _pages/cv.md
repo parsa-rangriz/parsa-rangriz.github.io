@@ -25,13 +25,13 @@ redirect_from:
 ## Honors and Awards
 * The **Graduate Research Studentship**, University of Waterloo, Canada, 2023-Present
 * The **International Master's Award of Excellence**, University of Waterloo, Canada, 2023-Present
-* The **CRM-PIMS Summer School in Probability Award**, University of Montreal, Canada, 2024
+* The **CRM-PIMS Summer School in Probability Award**, Université de Montréal, Canada, 2024
 * The **Master of Mathematics Entrance Scholarship**, University of Waterloo, Canada, 2023
 * The **Summer@EPFL** Fellowship, EPFL, Switzerland, 2022
 * **Silver Medal** in the **30th Iran National Physics Olympiad**, Iran, 2017
 
 ## Summer Schools & Workshops
-* [CRM-PIMS Summer School in Probability 2024](https://secure.math.ubc.ca/Links/ssprob24/index.php), **University of Montreal**
+* [CRM-PIMS Summer School in Probability 2024](https://secure.math.ubc.ca/Links/ssprob24/index.php), **Université de Montréal**,
   * July 2024, Montreal, QC, Canada
 * [Summer@EPFL 2022](https://summer.epfl.ch/), **EPFL**,
   * June-September 2022, Lausanne, Switzerland
