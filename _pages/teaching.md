@@ -23,4 +23,3 @@ redirect_from:
   * [PHY 24155: Thermodynamics and Statistical Mechanics 2 (Spring 2021)](https://physics.sharif.edu/~vahid/teachingThermoSM.html)
   * [PHY 24154: Thermodynamics and Statistical Mehcanics 1 (Fall 2020)](https://physics.sharif.edu/~vahid/teachingThermoSM.html)
   * PHY 24013: Physics 3 (Fall 2019)
-  * Fundamentals of C Programming (Spring 2019)
