@@ -11,7 +11,7 @@ Here I try to explain the administrative processes and educational services, whi
 
   * [راهنمای فراغت از تحصیل دانشجویان دانشگاه شریف](/files/Guide_to_Graduation.pdf)
   * [درخواست اجازه خروج دانشجویی - ویژه دانشجویان خارج از کشور](/files/Exit_Permit_for_International_Students.pdf)
-  * [Offical Access to International Journals](https://docs.google.com/document/d/1euOIXuhRzhtx9LPAMQIYouMWp4zLEpkaHmIPzjvdPhI/edit?usp=sharing)
+  * [راهنمای تمدید گذرنامه - ویژه دانشجویان داخل کشور](/files/Passport_Renewal_for_Domestic_Students.pdf)
   * [Passport Renewal for Domestic Students](https://docs.google.com/document/d/1YXcG_UWKGIt1MkNTjGJXiTLxMBv16ZwDGhHj4UpoQh4/edit?usp=sharing)
   * [Exit Permit for Domestic Students - Internship](https://docs.google.com/document/d/1CfXVzdVDFHhR4SGVYqlKr5qPpEX_6F9NdPn_ucHK4Zo/edit?usp=sharing)
     
