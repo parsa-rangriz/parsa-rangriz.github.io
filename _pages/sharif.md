@@ -10,7 +10,7 @@ This page is all about helping out my friends in Iran, especially physics underg
 Here I try to explain the administrative processes and educational services, which are sometimes very complicated and unusual, in a simple language through the experiences that have existed before. If there have been any changes in any of the described processes and the working method has changed, you can inform me. 
 
   * [راهنمای فراغت از تحصیل دانشجویان دانشگاه شریف](/files/Guide_to_Graduation.pdf)
-  * [درخواست اجازه خروج دانشجویی - ویژه دانشجویان خارج از کشور](/files/Exit_Permit_for_International_Students.pdf)
+  * [راهنمای درخواست اجازه خروج دانشجویی - ویژه دانشجویان خارج از کشور](/files/Exit_Permit_for_International_Students.pdf)
   * [راهنمای تمدید گذرنامه - ویژه دانشجویان داخل کشور](/files/Passport_Renewal_for_Domestic_Students.pdf)
   * [Passport Renewal for Domestic Students](https://docs.google.com/document/d/1YXcG_UWKGIt1MkNTjGJXiTLxMBv16ZwDGhHj4UpoQh4/edit?usp=sharing)
   * [Exit Permit for Domestic Students - Internship](https://docs.google.com/document/d/1CfXVzdVDFHhR4SGVYqlKr5qPpEX_6F9NdPn_ucHK4Zo/edit?usp=sharing)
