@@ -19,4 +19,5 @@ I am an MMath student in statistics at the University of Waterloo under the supe
 Research interests:
   * Probability Theory
   * Random Matrices
+  * Stochastic Processes
   * Spin Glasses
