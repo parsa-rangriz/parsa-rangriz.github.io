@@ -10,7 +10,7 @@ redirect_from:
 
 ## Past Teaching
 ### Teaching Assistant - University of Waterloo
-  * STAT 433 / STAT 833: Stochastic Processes 2 (Fall 2024)
+  * STAT 433/833: Stochastic Processes 2 (Fall 2024)
   * STAT 330: Mathematical Statistics (Spring 2024)
   * STAT 231: Probability (Spring 2024)
   * STAT 333: Stochastic Processes 1 (Winter 2024)
