@@ -9,7 +9,7 @@ This page is all about helping out my friends in Iran, especially physics underg
 ## Administrative Processes
 
   * [How to Graduate: A Step-by-Step Guide with Exit Permit Info for International Students](/files/Guide_to_Graduation.pdf)
-  * [Student Exit Permit Guide – For Students Studying Abroad](/files/Exit_Permit_for_International_Students.pdf)
+  * [Student Exit Permit Guide – For Students Studying in the U.S. and Canada](/files/Exit_Permit_for_International_Students.pdf)
   * [Guide to Renewing Your Passport – For Students Residing in Iran](/files/Passport_Renewal_for_Domestic_Students.pdf)
   * [Student Exit Permit Guide – For Students Going on Internships](/files/Exit_Request_for_Internship.pdf)
     
