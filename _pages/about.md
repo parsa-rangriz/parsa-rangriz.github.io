@@ -19,5 +19,5 @@ My research interests lie in high-dimensional probability, stochastic calculus, 
 
 ## News
 - July 2024: Attended the [CRM-PIMS Summer School in Probability](https://personal.math.ubc.ca/~angel/ssprob24/) in Montréal.
-- Feb 2024: Completed Level 3 of the [SAS TA training program](https://uwaterloo.ca/statistics-and-actuarial-science/graduate-studies/resources-students/teaching-assistants-program/training-and-development).
+- Feb 2024: Completed Level 3 of the [SAS TA Training Program](https://uwaterloo.ca/statistics-and-actuarial-science/graduate-studies/resources-students/teaching-assistants-program/training-and-development).
 - Sep 2023: Started my MMath in Statistics at the University of Waterloo.
