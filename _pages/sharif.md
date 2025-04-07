@@ -11,7 +11,7 @@ This page is all about helping out my friends in Iran, especially physics underg
   * [How to Graduate: A Step-by-Step Guide with Exit Permit Info for International Students](/files/Guide_to_Graduation.pdf)
   * [Student Exit Permit Application Guide – For Students Studying Abroad](/files/Exit_Permit_for_International_Students.pdf)
   * [Guide to Renewing Your Passport – For Students Residing in Iran](/files/Passport_Renewal_for_Domestic_Students.pdf)
-  * [Exit Permit Guide – For Students Going on Internships](/files/Exit_Request_for_Internship.pdf)
+  * [Student Exit Permit Guide – For Students Going on Internships](/files/Exit_Request_for_Internship.pdf)
     
 ## Laboratory Reports
 _Note: Using someone else's lab reports as your own is considered academic misconduct and can result in serious consequences. It is recommended to always complete your own work and properly cite any sources used._
