@@ -18,6 +18,7 @@ I am a Master of Mathematics student in Statistics at the University of Waterloo
 My research interests lie in high-dimensional probability, stochastic calculus, random matrices, and statistical physics. 
 
 ## News
-- July 2024: Attended the [CRM-PIMS Summer School in Probability](https://personal.math.ubc.ca/~angel/ssprob24/) in Montréal.
-- Feb 2024: Completed Level 3 of the [UWaterloo SAS TA Training Program](https://uwaterloo.ca/statistics-and-actuarial-science/graduate-studies/resources-students/teaching-assistants-program/training-and-development).
+- April 2024: Completed and defended my MMath Thesis at the University of Waterloo.
+- July 2024: Attended the [CRM-PIMS summer school in probability](https://personal.math.ubc.ca/~angel/ssprob24/) in Montréal.
+- Feb 2024: Completed level 3 of the [UWaterloo SAS TA training program](https://uwaterloo.ca/statistics-and-actuarial-science/graduate-studies/resources-students/teaching-assistants-program/training-and-development).
 - Sep 2023: Started my MMath in Statistics at the University of Waterloo.
