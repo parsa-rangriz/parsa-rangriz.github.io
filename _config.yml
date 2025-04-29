@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Parsa Rangriz"
   avatar           : "profile.JPG"
-  bio              : "Graduate Student, <br> MMath, Statistics, <br> University of Waterloo"
+  bio              : #"Graduate Student, <br> MMath, Statistics, <br> University of Waterloo"
   location         : "Waterloo, Ontario"
   employer         :
   pubmed           : 
