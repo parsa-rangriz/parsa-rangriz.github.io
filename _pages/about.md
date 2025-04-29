@@ -13,7 +13,7 @@ Mathematics 3 (M3), Room 2127,\
 Waterloo, ON, Canada, N2L 3G1\
 Email: [prangriz@uwaterloo.ca](mailto:prangriz@uwaterloo.ca)
 
-I am a Master of Mathematics student in Statistics at the University of Waterloo under the supervision of [Prof. Aukosh Jagannath](https://aukosh.github.io/). Prior to this, I earned my B.Sc. in Physics with a Minor in Mathematics from Sharif University of Technology in 2023. Also, I completed a summer research internship at EPFL under the supervison of [Prof. Lenka Zdeborová](https://people.epfl.ch/lenka.zdeborova/?lang=en) in 2022.  
+I am an incoming PhD student in Mathematics at the University of California, San Diego, starting in September 2025. I recieved my MMath in Statistics from the University of Waterloo under the supervision of [Prof. Aukosh Jagannath](https://aukosh.github.io/). Prior to this, I earned my B.Sc. in Physics with a Minor in Mathematics from Sharif University of Technology in 2023. Also, I completed a summer research internship at EPFL under the supervison of [Prof. Lenka Zdeborová](https://people.epfl.ch/lenka.zdeborova/?lang=en) in 2022.  
 
 My research interests lie in high-dimensional probability, stochastic calculus, random matrices, and statistical physics. 
 
