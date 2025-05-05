@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Parsa Rangriz"
+title: "Home"
 excerpt: ""
 author_profile: true
 redirect_from: 
