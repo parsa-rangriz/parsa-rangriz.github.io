@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming PhD Mathematics student at [UCSD](https://ucsd.edu/), starting in Fall 2025. I recieved my MMath Statistics from [UWaterloo](https://uwaterloo.ca/) under the supervision of [Prof. Aukosh Jagannath](https://aukosh.github.io/) in 2025. Prior to this, I earned my BSc Physics from [Sharif](https://en.sharif.ir/) in 2023. Also, I completed a summer research internship at [EPFL](https://www.epfl.ch/en/) under the supervison of [Prof. Lenka Zdeborová](https://people.epfl.ch/lenka.zdeborova/?lang=en) in 2022.  
+I am an incoming PhD Mathematics student at [UC San Diego](https://ucsd.edu/), starting in Fall 2025. I recieved my MMath Statistics from [UWaterloo](https://uwaterloo.ca/) under the supervision of [Prof. Aukosh Jagannath](https://aukosh.github.io/) in 2025. Prior to this, I earned my BSc Physics from [Sharif](https://en.sharif.ir/) in 2023. Also, I completed a summer research internship at [EPFL](https://www.epfl.ch/en/) under the supervison of [Prof. Lenka Zdeborová](https://people.epfl.ch/lenka.zdeborova/?lang=en) in 2022.  
 
 Research interests: Probability theory, Stochastic Analysis, Random Matrices, and Statistical Physics. 
 
