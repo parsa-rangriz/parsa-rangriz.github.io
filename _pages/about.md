@@ -8,10 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming PhD Mathematics student at [UC San Diego](https://ucsd.edu/), starting in Fall 2025. I recieved my MMath Statistics from [UWaterloo](https://uwaterloo.ca/) under the supervision of [Prof. Aukosh Jagannath](https://aukosh.github.io/) in 2025. Prior to this, I earned my BSc Physics from [Sharif](https://en.sharif.ir/) in 2023. Also, I completed a summer research internship at [EPFL](https://www.epfl.ch/en/) under the supervison of [Prof. Lenka Zdeborová](https://people.epfl.ch/lenka.zdeborova/?lang=en) in 2022.  
+I am an incoming PhD student in Mathematics at [UC San Diego](https://ucsd.edu/), beginning in Fall 2025. I completed my Master of Mathematics (MMath) in Statistics at the [University of Waterloo](https://uwaterloo.ca/) under the supervision of [Prof. Aukosh Jagannath](https://aukosh.github.io/), and earned my BSc in Physics from [Sharif University of Technology](https://en.sharif.ir/) in 2023. In Summer 2022, I was a research intern at [EPFL](https://www.epfl.ch/en/), working under [Prof. Lenka Zdeborová](https://people.epfl.ch/lenka.zdeborova/?lang=en).
 
-My research interests lie at the intersection of probability theory, high-dimensional statistics, stochastic analysis, and random matrix theory, with a focus on understanding statistical physics through mathematical frameworks.
+My research interests lie at the intersection of **probability theory**, **high-dimensional statistics**, **stochastic analysis**, and **random matrix theory**, with a focus on understanding inference and learning problems through the lens of statistical physics.
 
-## News
-- April 2025: My MMath thesis is now [available on UWSpace](https://hdl.handle.net/10012/21642).
-- July 2024: Attended the [CRM-PIMS summer school in probability](https://personal.math.ubc.ca/~angel/ssprob24/) in Montréal.
+---
+
+## 🗞️ News
+
+- **April 2025** — My MMath thesis is now [available on UWSpace](https://hdl.handle.net/10012/21642).
+- **July 2024** — Attended the [CRM-PIMS Summer School in Probability](https://personal.math.ubc.ca/~angel/ssprob24/) in Montréal.
+
