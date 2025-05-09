@@ -6,7 +6,7 @@ redirect_from:
 ---
 This page contains my own writings, along with reviews and summaries of some other books I have read and found insightful. The paragraphs are selected because they offer something valuable to the reader and encourage them to explore the entire book. The books span topics such as history, literature, classical poetry, political science, and cultural studies. Although the books are not categorized, a certain order and coherence have been maintained to make them easy to navigate.
 
-* ## A Review of "A Modern History of Iran" by Ervand Abrahamian
+* ## A Review of "A History of Modern Iran" by Ervand Abrahamian
   * ### [Part I: Qajar Persia and Iran's Constitutional Revolution](/files/Modern_History_Iran_1.pdf)
     This book, written by [Ervand Abrahamian](https://en.wikipedia.org/wiki/Ervand_Abrahamian), an Iranian-American historian and Distinguished Professor of History at Baruch College and the CUNY Graduate Center, reexamines Qajar rule in 19th-century Iran. The first part of the book challenges the common view of the dynasty as all-powerful, showing instead a fragmented system reliant on tribal leaders, clerics, and local elites. With limited finances, no standing army, and weak institutions, the Qajars ruled through informal networks while drawing legitimacy from Shi'i Islam and Iran’s ancient past. Abrahamian also explores the rise of a secular middle class, increasing British and Russian influence, and the conditions that led to the Constitutional Revolution (1906–1911)—a turning point that introduced modern ideas of law, representation, and nationhood.
 
