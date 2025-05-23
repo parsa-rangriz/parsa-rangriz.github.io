@@ -12,9 +12,6 @@ main:
  - title: "Home"
    url: /about/
  
- - title: "CV"
-   url: /files/CV.pdf
-
  - title: "Publications"
    url: /research/
    
@@ -30,3 +27,5 @@ main:
  - title: "شریف"
    url: /sharif/
 
+ - title: "CV"
+   url: /files/CV.pdf
