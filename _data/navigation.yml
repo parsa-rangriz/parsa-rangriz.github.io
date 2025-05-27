@@ -21,8 +21,8 @@ main:
 # - title: "Blog"
  #  url: /year-archive/
 
- - title: "Hobbies"
-   url: /hobbies/
+ # - title: "Hobbies"
+ #   url: /hobbies/
    
  - title: "شریف"
    url: /sharif/
