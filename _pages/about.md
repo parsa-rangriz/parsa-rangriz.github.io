@@ -16,6 +16,6 @@ My research interests lie at the intersection of **probability theory**, **high-
 
 ## 🗞️ News
 
-- **April 2025** — My MMath thesis is now [available on UWSpace](https://hdl.handle.net/10012/21642).
+- **April 2025** — My MMath thesis is now available on [UWSpace](https://hdl.handle.net/10012/21642).
 - **July 2024** — Attended the [CRM-PIMS Summer School in Probability](https://personal.math.ubc.ca/~angel/ssprob24/) in Montréal.
 
