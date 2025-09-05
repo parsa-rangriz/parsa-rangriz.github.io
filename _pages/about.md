@@ -16,5 +16,6 @@ My research interests lie at the intersection of **probability theory**, **high-
 
 ## 🗞️ News
 
+- **September 2025** - Began my PhD program in Mathematics at UC San Diego. 
 - **April 2025** — My MMath thesis is now available on [UWSpace](https://hdl.handle.net/10012/21642).
 
