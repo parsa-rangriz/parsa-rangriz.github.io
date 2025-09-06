@@ -7,7 +7,9 @@ redirect_from:
 
 ## 📚 Current Teaching
 
-None
+### 🎓 UC San Diego
+
+- **MATH 11**: Calculus-Based Probability and Statistics (Fall 2025)
 
 ---
 
