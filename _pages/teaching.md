@@ -21,7 +21,7 @@ redirect_from:
 - **STAT 433/833**: Stochastic Processes II (Fall 2024)  
 - **STAT 330**: Mathematical Statistics (Fall 2023, Spring 2024)  
 - **STAT 231**: Probability (Spring 2024)  
-- **STAT 230**: Introduction to Statistics (Spring 2024)  
+- **STAT 230**: Statistics (Spring 2024)  
 - **STAT 202**: Introductory Statistics for Scientists (Fall 2023)  
 
 ---
