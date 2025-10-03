@@ -9,7 +9,7 @@ redirect_from:
 
 ### 🎓 UC San Diego - Teaching Assistant
 
-- **MATH 11**: Calculus-Based Probability and Statistics (Fall 2025)
+- **MATH 11A**: Calculus-Based Probability and Statistics (Fall 2025)
 
 ---
 
