@@ -7,7 +7,7 @@ redirect_from:
 
 ## 📚 Current Teaching
 
-### 🎓 UC San Diego
+### 🎓 UC San Diego - Teaching Assistant
 
 - **MATH 11**: Calculus-Based Probability and Statistics (Fall 2025)
 
