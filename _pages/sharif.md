@@ -11,10 +11,11 @@ This page is dedicated to helping my friends in Iran—especially undergraduate 
 
 ## 📋 Administrative Guides
 
-- 📄 [How to Graduate: Step-by-Step with Exit Permit Info for International Students](/files/Guide_to_Graduation.pdf)  
+- 📄 [How to Graduate: Sharif Undergrad Students](/files/Guide_to_Graduation.pdf)
+- 🎒 [How to Graduate - U.S. and Canada Grad Student](/files/Guide_to_Graduate_US_Canada.pdf)
 - 🛂 [Student Exit Permit Guide — U.S. and Canada](/files/Exit_Permit_for_International_Students.pdf)  
 - 🆔 [Passport Renewal Guide — For Students in Iran](/files/Passport_Renewal_for_Domestic_Students.pdf)  
-- ✈️ [Exit Permit Guide for Internships Abroad](/files/Exit_Request_for_Internship.pdf)  
+- ✈️ [Exit Permit Guide for Internships Abroad](/files/Exit_Request_for_Internship.pdf) 
 
 ---
 
