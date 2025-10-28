@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Mathematics PhD student [UC San Diego](https://ucsd.edu/). I completed my MMath in Statistics at the [University of Waterloo](https://uwaterloo.ca/) under the supervision of [Aukosh Jagannath](https://aukosh.github.io/) in 2025, and earned my BSc in Physics from [Sharif University of Technology](https://en.sharif.ir/) in 2023. Also, I was a research intern at [EPFL](https://www.epfl.ch/en/), working under [Lenka Zdeborová](https://people.epfl.ch/lenka.zdeborova/?lang=en) in 2022. My research interests lie at the intersection of probability theory and high-dimensional statistics: stochastic analysis, random matrices, and their applications in machine learning.
+I am a first-year Ph.D. student in Mathematics at [UC San Diego](https://ucsd.edu/). Before that, I received my M.Sc. in Statistics from the [University of Waterloo](https://uwaterloo.ca/) in 2025, where I was advised by [Aukosh Jagannath](https://aukosh.github.io/). Before that, I completed my B.Sc. in Physics with a minor in Mathematics at [Sharif University of Technology](https://en.sharif.ir/) in 2023. Also, in 2022, I was a research intern at [EPFL](https://www.epfl.ch/en/), supervised by [Lenka Zdeborová](https://people.epfl.ch/lenka.zdeborova/?lang=en).
+
+My research interests lie at the intersection of probability theory and high-dimensional statistics, with a focus on stochastic analysis, random matrices, and their applications in machine learning and statistical physics. Broadly, I am interested in understanding high-dimensional inference problems, combinatorial optimization, and spin glasses.
 
 ---
 
