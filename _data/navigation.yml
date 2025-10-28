@@ -9,7 +9,7 @@ main:
  # - title: "Portfolio"
  #   url: /portfolio/
         
- - title: "Home"
+ - title: "About Me"
    url: /about/
  
  - title: "Publications"
