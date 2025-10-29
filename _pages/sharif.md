@@ -5,8 +5,6 @@ author_profile: true
 redirect_from: 
 ---
 
-This page is dedicated to helping my friends in Iran—especially undergraduate physics students at Sharif University—navigate key academic and administrative processes. It also contains shared lab reports as references for educational purposes.
-
 ---
 
 ## 📋 Administrative Guides
