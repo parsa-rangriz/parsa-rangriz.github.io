@@ -1,11 +1,19 @@
 ---
 permalink: /sharif/
-title: "شریف"
+title: "Notes"
 author_profile: true
 redirect_from: 
 ---
 
 ---
+Welcome! This page is a collection of practical and academic resources I have put together to help students, especially my friends at Sharif University of Technology, navigate both the administrative side of student life and the scientific side of learning.
+
+Here you’ll find: 
+- Step-by-step administrative guides for students in Iran and abroad.
+- Physics lab reports from my undergraduate years, shared as references.
+- (Coming soon!) Mathematical notes and problem sets from my research and coursework.
+
+Feel free to explore and use these materials for study and reference. If you find them useful, you’re welcome to share them with others who might benefit.
 
 ## 📋 Administrative Guides
 
