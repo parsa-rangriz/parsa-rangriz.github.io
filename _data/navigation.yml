@@ -24,8 +24,8 @@ main:
  # - title: "Hobbies"
  #   url: /hobbies/
    
- - title: "شریف"
-   url: /sharif/
+ - title: "Notes"
+   url: /notes/
 
  - title: "CV"
    url: /files/CV.pdf
