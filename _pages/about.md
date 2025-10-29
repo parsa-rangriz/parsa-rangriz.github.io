@@ -12,6 +12,8 @@ I am a first-year Ph.D. student in Mathematics at [UC San Diego](https://ucsd.ed
 
 My research interests lie at the intersection of probability theory and high-dimensional statistics, with a focus on stochastic analysis, random matrices, and their applications in machine learning and statistical physics. Broadly, I am interested in understanding high-dimensional inference problems, combinatorial optimization, and spin glasses.
 
+My CV as of October 2025 is available [here](/files/CV.pdf).
+
 ---
 
 ## 🗞️ News
