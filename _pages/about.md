@@ -18,6 +18,6 @@ My CV is available [here](/files/CV.pdf) (Update: Oct 2025).
 
 ## 🗞️ News
 
-- **September 2025** - Began my PhD program in Mathematics at UC San Diego. 
-- **April 2025** — My MMath thesis is now available on [UWSpace](https://hdl.handle.net/10012/21642).
+- **September 2025** - Started my PhD program in Mathematics at UC San Diego.
+- **April 2025** — Defended my [thesis](https://uwspace.uwaterloo.ca/items/c8ef0af0-a10b-4595-ab6c-b43a74a699de) and earned a Master’s degree in Statistics at UWaterloo.
 
