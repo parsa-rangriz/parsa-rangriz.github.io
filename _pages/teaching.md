@@ -9,7 +9,8 @@ redirect_from:
 
 ### 🎓 UC San Diego - Teaching Assistant
 
-- **MATH 11**: Calculus-Based Probability and Statistics (Fall 2025)
+- **MATH 10B**: Calculus II (Winter 2025)
+- **MATH 11**: Probability and Statistics (Fall 2025)
 
 ---
 
