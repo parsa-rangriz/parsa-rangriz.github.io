@@ -18,5 +18,3 @@ My CV is available [here](/files/CV.pdf) (Updated: Dec 2025).
 
 ## 🗞️ News
 - **November 2025** - My paper "Limit Theorems for SGD in High-Dimensional Single-Layer Networks" is now available on [arXiv](https://arxiv.org/abs/2511.02258).
-- **September 2025** - Started my PhD program in Mathematics at UCSD.
-- **April 2025** — Defended my [thesis](https://uwspace.uwaterloo.ca/items/c8ef0af0-a10b-4595-ab6c-b43a74a699de) and earned a MMath degree in Statistics at UW.
