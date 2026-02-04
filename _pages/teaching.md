@@ -29,7 +29,7 @@ redirect_from:
 
 ### 🎓 Sharif University of Technology — Teaching Assistant
 
-- **PHYS 24156**: Statistical Mechanics III (Fall 2022, [Fall 2021](https://physics.sharif.edu/~vahid/teachingThermoSM.html), [Spring 2021](/teaching/statmech3/))
-- **PHYS 24155**: Statistical Mechanics II ([Spring 2021](https://physics.sharif.edu/~vahid/teachingThermoSM.html))
-- **PHYS 24154**: Statistical Mechanics I ([Fall 2020](https://physics.sharif.edu/~vahid/teachingThermoSM.html))
+- **PHYS 24156**: Statistical Mechanics III (Fall 2022, [Fall 2021](https://sharif.edu/~vahid/teachingThermoSM.html), [Spring 2021](/teaching/statmech3/))
+- **PHYS 24155**: Statistical Mechanics II ([Spring 2021](https://sharif.edu/~vahid/teachingThermoSM.html))
+- **PHYS 24154**: Statistical Mechanics I ([Fall 2020](https://sharif.edu/~vahid/teachingThermoSM.html))
 - **PHYS 24013**: Physics III (Fall 2019)  
